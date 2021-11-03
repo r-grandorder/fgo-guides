@@ -15,12 +15,14 @@
 https://cdn.discordapp.com/attachments/610464668959375370/764293803212275732/Ej4704ZU8AAGpsS.jpg
 ![Event Bonuses by niconikon01](https://cdn.discordapp.com/attachments/610464668959375370/764293803212275732/Ej4704ZU8AAGpsS.jpg)
 
+---
 
 ## __**3. Frequently Asked Questions/How-To**__
 - Do not try to rush the event, there are timegates a day for the first week and the best nodes usually only go up when the epilogue gets released.
 - Raids start on 7-Nov (Sun) 18:00 JST. Be prepared by keeping up with the event and having your damage CEs bought out from the event shop. You will need a drop from any event FQ/Raid to MLB it. 
 - ★ 1 (C) Oda Nobukatsu :nobukatsuder: :Archer: is a limited servant available from Friend Point summoning who will go away after the event is over. Ensure that you get him ASAP. He is also a useful low-cost event bonus servant that you should be bringing to all Free Quests to maximize resource drops. 
 <https://fategrandorder.fandom.com/wiki/Oda_Nobukatsu>
+-- Rerun changes: You get 15 servant coins from rolling Nobukatsu in the FP banner.
 - While doing Free Quests, bring along the proper Event Bonus Servants to boost resource drops which are required to do Restoration Quests and for advancing the story. 
 - Complete Restoration Quests to unlock/upgrade your fields. The sooner you get them done, the more rewards you will be able to collect as they run on 8-12 hour timers. 
 - When a field is upgraded, the timer on it is reset and started. This does not count as a turn-in and will not yield rewards. Therefore, best practice is to collect the reward as soon as you unlock the field, then upgrade it to max immediately following so that the next time you are able to turn in, it will be for the maxed out rewards. 
@@ -40,8 +42,11 @@ https://cdn.discordapp.com/attachments/610464668959375370/764293803212275732/Ej4
 - Put up Chaldea Teatime / Bella Lisa on your Event Support Lists. :MashuNo: :davincerlily:
 - These raids are not great if you are looking for material drops as they are level 80 nodes at best. Only refill farm these if you are looking for speedy clears. Otherwise, you are better off clearing standard Free Quests. 
 
+__THE DROPS MAY CHANGE IN THE RERUN.__ The image will be updated when we get a new one from niconikon01
 https://media.discordapp.net/attachments/316015011015163906/765515184910499901/image0.jpg
 ![Raid Map by niconikon01](https://media.discordapp.net/attachments/316015011015163906/765515184910499901/image0.jpg)
+
+---
 
 ## __**5. Challenge Quest**__
 - :maouder: :Avenger: (478k/527k/600k) / :nobukatsuhorror: :Archer: (407k/420k)
