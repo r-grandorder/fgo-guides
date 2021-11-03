@@ -6,7 +6,7 @@
 
 ## __**1. Resources**__
 1. Official News Page: <https://news.fate-go.jp/2021/re_yamataikoku/>
-2. Wikia: <https://fategrandorder.fandom.com/wiki/GUDAGUDA_Yamatai-koku_2020_Rerun/>
+2. Wikia: <https://fategrandorder.fandom.com/wiki/GUDAGUDA_Yamatai-koku_2020_Rerun>
     - Mission List: <https://fategrandorder.fandom.com/wiki/GUDAGUDA_Yamatai-koku_2020_Rerun/Mission>
 3. Appmedia (Japanese; Fastest to Update): <https://appmedia.jp/fategrandorder/5486884>
 4. niconikon01 (Drop Maps/Recommended Support): <https://twitter.com/niconikon01/>
