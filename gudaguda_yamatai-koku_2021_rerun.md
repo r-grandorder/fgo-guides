@@ -1,25 +1,10 @@
-# "GUDAGUDA Yamatai-koku 2021 Rerun" Event Guide :NOBU:
+# "GUDAGUDA Yamatai-koku 2021 Rerun" Event Guide
 - Duration: 3-Nov (Wed) 18:00 to 17-Nov (Wed) 12:59 JST
 - Fuyuki Story Clear is required to participate
 - Mission Based Event; With Raids on the 2nd part of the event (7-Nov (Sun) 18:00)
 - Event is __time-gated__; last part of the story will unlock on 7-Nov (Sun)
 
-## 1. Resources
-
-1. Official News Page: <https://news.fate-go.jp/2021/re_yamataikoku/>
-2. Wikia: <https://fategrandorder.fandom.com/wiki/GUDAGUDA_Yamatai-koku_2020_Rerun>
-    - Mission List: <https://fategrandorder.fandom.com/wiki/GUDAGUDA_Yamatai-koku_2020_Rerun/Mission>
-3. Appmedia (Japanese; Fastest to Update): <https://appmedia.jp/fategrandorder/5486884>
-4. niconikon01 (Drop Maps/Recommended Support): <https://twitter.com/niconikon01/>
-
-## 2. Event Bonuses
-
-<!-- https://images-ext-2.discordapp.net/external/SLGHCYXpE3582EaDfnKdxR6-iseGI94lP4W_zpa4n0Y/https/pbs.twimg.com/media/FDQnS77aIAAf9T3.jpg%3Alarge?width=720&height=619 -->
-![Event Bonuses by niconikon01](https://images-ext-2.discordapp.net/external/SLGHCYXpE3582EaDfnKdxR6-iseGI94lP4W_zpa4n0Y/https/pbs.twimg.com/media/FDQnS77aIAAf9T3.jpg%3Alarge?width=720&height=619)
-
----
-
-## 3. Frequently Asked Questions/How-To
+## Frequently Asked Questions/How-To
 
 - Do not try to rush the event, there are timegates a day for the first week and the best nodes usually only go up when the epilogue gets released.
 - Raids start on 7-Nov (Sun) 18:00 JST. Be prepared by keeping up with the event and having your damage CEs bought out from the event shop. You will need a drop from any event FQ/Raid to MLB it. 
@@ -34,7 +19,7 @@
     - Rerun changes: There's no longer a need to have participated in the raids to get the mission rewards. Doing the 5AP quests should allow you to clear the missions.
 - The on/off button at the Event's map is for notifications when your farm's timer is up.
 
-## 4. GUDAGUDA Event Raid Info (Starts on 7-Nov)
+## GUDAGUDA Event Raid Info (Starts on 7-Nov, Ended 8-Nov 02:00 JST)
 
 * Saber - Inflicts Burn on your team for 3 Turns
 * Archer - Guts (10k HP) 
@@ -57,7 +42,33 @@
 
 ---
 
-## 5. Challenge Quest
+## Event Bonuses
+
+<!-- https://images-ext-2.discordapp.net/external/SLGHCYXpE3582EaDfnKdxR6-iseGI94lP4W_zpa4n0Y/https/pbs.twimg.com/media/FDQnS77aIAAf9T3.jpg%3Alarge?width=720&height=619 -->
+![Event Bonuses by niconikon01](https://images-ext-2.discordapp.net/external/SLGHCYXpE3582EaDfnKdxR6-iseGI94lP4W_zpa4n0Y/https/pbs.twimg.com/media/FDQnS77aIAAf9T3.jpg%3Alarge?width=720&height=619)
+
+---
+
+## Recommended Support List
+
+<https://twitter.com/niconikon01/status/1457401687358935043>
+
+<!-- https://images-ext-2.discordapp.net/external/Pkg0oWp41OnrN5CqaiDGEJlIyc-Glj2dJSOOyHSajzk/https/pbs.twimg.com/media/FDm6S9facAAQF5v.jpg%3Alarge -->
+![Support List](https://images-ext-2.discordapp.net/external/Pkg0oWp41OnrN5CqaiDGEJlIyc-Glj2dJSOOyHSajzk/https/pbs.twimg.com/media/FDm6S9facAAQF5v.jpg%3Alarge)
+
+## Free Quest Info
+
+<https://twitter.com/niconikon01/status/1457401687358935043>
+
+- Note that there are two sets of event drops; shop currency and resources which are used for Restoration Quests. Bonuses are on gacha CEs and servants (class-based) respectively. 
+- __Final things to do after the epilogue (Released on 10-Nov 1800 JST)__ - there are a couple of restoration / story quests that you need to do before the Challenge Quest will unlock. It may require you to farm for more resources, though if you have an excess stock of any particular one from raiding, you can use the event shop to exchange for what you need. These last few quests will reward an additional ATK/HP Fou as well as various ascension materials.
+
+<!-- https://images-ext-2.discordapp.net/external/ZZGUiCLKc58UKneqWEQSaan8yGUK3P5YYxCbsJHMQ4w/https/pbs.twimg.com/media/FDm6NahagAA7H5f.jpg%3Alarge?width=1390&height=671 -->
+![Free Quest](https://images-ext-2.discordapp.net/external/ZZGUiCLKc58UKneqWEQSaan8yGUK3P5YYxCbsJHMQ4w/https/pbs.twimg.com/media/FDm6NahagAA7H5f.jpg%3Alarge?width=1390&height=671)
+
+---
+
+## Challenge Quest
 
 - :maouder: :Avenger: (478k/527k/600k) / :nobukatsuhorror: :Archer: (407k/420k)
 - Maou Nobunaga begins the battle with a permanent Defense Buff.
@@ -68,19 +79,10 @@
 Appmedia: <https://appmedia.jp/fategrandorder/5514565>
 Wikia: <https://fategrandorder.fandom.com/wiki/GUDAGUDA_Yamatai-koku_2020/Challenge_Quest>
 
-## 6. Recommended Support List
+## Resources
 
-<https://twitter.com/niconikon01/status/1457401687358935043>
-
-<!-- https://images-ext-2.discordapp.net/external/Pkg0oWp41OnrN5CqaiDGEJlIyc-Glj2dJSOOyHSajzk/https/pbs.twimg.com/media/FDm6S9facAAQF5v.jpg%3Alarge -->
-![Support List](https://images-ext-2.discordapp.net/external/Pkg0oWp41OnrN5CqaiDGEJlIyc-Glj2dJSOOyHSajzk/https/pbs.twimg.com/media/FDm6S9facAAQF5v.jpg%3Alarge)
-
-## 7. Free Quest Info
-
-<https://twitter.com/niconikon01/status/1457401687358935043>
-
-- Note that there are two sets of event drops; shop currency and resources which are used for Restoration Quests. Bonuses are on gacha CEs and servants (class-based) respectively. 
-- __Final things to do after the epilogue (Released on 10-Nov 1800 JST)__ - there are a couple of restoration / story quests that you need to do before the Challenge Quest will unlock. It may require you to farm for more resources, though if you have an excess stock of any particular one from raiding, you can use the event shop to exchange for what you need. These last few quests will reward an additional ATK/HP Fou as well as various ascension materials.
-
-<!-- https://images-ext-2.discordapp.net/external/ZZGUiCLKc58UKneqWEQSaan8yGUK3P5YYxCbsJHMQ4w/https/pbs.twimg.com/media/FDm6NahagAA7H5f.jpg%3Alarge?width=1390&height=671 -->
-![Free Quest](https://images-ext-2.discordapp.net/external/ZZGUiCLKc58UKneqWEQSaan8yGUK3P5YYxCbsJHMQ4w/https/pbs.twimg.com/media/FDm6NahagAA7H5f.jpg%3Alarge?width=1390&height=671)
+- Official News Page: <https://news.fate-go.jp/2021/re_yamataikoku/>
+- Wikia: <https://fategrandorder.fandom.com/wiki/GUDAGUDA_Yamatai-koku_2020_Rerun>
+    - Mission List: <https://fategrandorder.fandom.com/wiki/GUDAGUDA_Yamatai-koku_2020_Rerun/Mission>
+- Appmedia (Japanese; Fastest to Update): <https://appmedia.jp/fategrandorder/5486884>
+- niconikon01 (Drop Maps/Recommended Support): <https://twitter.com/niconikon01/>
