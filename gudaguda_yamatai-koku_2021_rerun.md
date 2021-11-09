@@ -24,8 +24,7 @@
 - Do not try to rush the event, there are timegates a day for the first week and the best nodes usually only go up when the epilogue gets released.
 - Raids start on 7-Nov (Sun) 18:00 JST. Be prepared by keeping up with the event and having your damage CEs bought out from the event shop. You will need a drop from any event FQ/Raid to MLB it. 
     - Rerun changes: The shop now has 5 CEs in the shop, no need for a drop from the FQ/Raid.
-- ★ 1 (C) Oda Nobukatsu :nobukatsuder: :Archer: is a limited servant available from Friend Point summoning who will go away after the event is over. Ensure that you get him ASAP. He is also a useful low-cost event bonus servant that you should be bringing to all Free Quests to maximize resource drops. 
-<https://fategrandorder.fandom.com/wiki/Oda_Nobukatsu>
+- ★ 1 (C) Oda Nobukatsu :nobukatsuder: :Archer: is a limited servant available from Friend Point summoning who will go away after the event is over. Ensure that you get him ASAP. He is also a useful low-cost event bonus servant that you should be bringing to all Free Quests to maximize resource drops. [Oda Nobukatsu's Details in wikia](https://fategrandorder.fandom.com/wiki/Oda_Nobukatsu)
     - Rerun changes: You get 15 servant coins from rolling Nobukatsu in the FP banner.
 - While doing Free Quests, bring along the proper Event Bonus Servants to boost resource drops which are required to do Restoration Quests and for advancing the story. 
 - Complete Restoration Quests to unlock/upgrade your fields. The sooner you get them done, the more rewards you will be able to collect as they run on 8-12 hour timers. 
