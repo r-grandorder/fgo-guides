@@ -14,7 +14,7 @@
 
 ## 2. Event Bonuses
 
-https://images-ext-2.discordapp.net/external/SLGHCYXpE3582EaDfnKdxR6-iseGI94lP4W_zpa4n0Y/https/pbs.twimg.com/media/FDQnS77aIAAf9T3.jpg%3Alarge?width=720&height=619
+<!-- https://images-ext-2.discordapp.net/external/SLGHCYXpE3582EaDfnKdxR6-iseGI94lP4W_zpa4n0Y/https/pbs.twimg.com/media/FDQnS77aIAAf9T3.jpg%3Alarge?width=720&height=619 -->
 ![Event Bonuses by niconikon01](https://images-ext-2.discordapp.net/external/SLGHCYXpE3582EaDfnKdxR6-iseGI94lP4W_zpa4n0Y/https/pbs.twimg.com/media/FDQnS77aIAAf9T3.jpg%3Alarge?width=720&height=619)
 
 ---
@@ -53,7 +53,7 @@ https://images-ext-2.discordapp.net/external/SLGHCYXpE3582EaDfnKdxR6-iseGI94lP4W
 
 <https://twitter.com/niconikon01/status/1457275606412840964>
 
-https://images-ext-2.discordapp.net/external/AWoCz5FOSmbdfIR7kHkp6-AmL60wONOzBvS8fLVy7Y0/https/pbs.twimg.com/media/FDlIF7WagAAMOVO.jpg%3Alarge?width=665&height=671
+<!-- https://images-ext-2.discordapp.net/external/AWoCz5FOSmbdfIR7kHkp6-AmL60wONOzBvS8fLVy7Y0/https/pbs.twimg.com/media/FDlIF7WagAAMOVO.jpg%3Alarge?width=665&height=671 -->
 ![Raid Map by niconikon01](https://images-ext-2.discordapp.net/external/AWoCz5FOSmbdfIR7kHkp6-AmL60wONOzBvS8fLVy7Y0/https/pbs.twimg.com/media/FDlIF7WagAAMOVO.jpg%3Alarge?width=665&height=671)
 
 ---
@@ -73,7 +73,7 @@ Wikia: <https://fategrandorder.fandom.com/wiki/GUDAGUDA_Yamatai-koku_2020/Challe
 
 <https://twitter.com/niconikon01/status/1457401687358935043>
 
-https://images-ext-2.discordapp.net/external/Pkg0oWp41OnrN5CqaiDGEJlIyc-Glj2dJSOOyHSajzk/https/pbs.twimg.com/media/FDm6S9facAAQF5v.jpg%3Alarge
+<!-- https://images-ext-2.discordapp.net/external/Pkg0oWp41OnrN5CqaiDGEJlIyc-Glj2dJSOOyHSajzk/https/pbs.twimg.com/media/FDm6S9facAAQF5v.jpg%3Alarge -->
 ![Support List](https://images-ext-2.discordapp.net/external/Pkg0oWp41OnrN5CqaiDGEJlIyc-Glj2dJSOOyHSajzk/https/pbs.twimg.com/media/FDm6S9facAAQF5v.jpg%3Alarge)
 
 ## 7. Free Quest Info
@@ -83,5 +83,5 @@ https://images-ext-2.discordapp.net/external/Pkg0oWp41OnrN5CqaiDGEJlIyc-Glj2dJSO
 - Note that there are two sets of event drops; shop currency and resources which are used for Restoration Quests. Bonuses are on gacha CEs and servants (class-based) respectively. 
 - __Final things to do after the epilogue (Released on 10-Nov 1800 JST)__ - there are a couple of restoration / story quests that you need to do before the Challenge Quest will unlock. It may require you to farm for more resources, though if you have an excess stock of any particular one from raiding, you can use the event shop to exchange for what you need. These last few quests will reward an additional ATK/HP Fou as well as various ascension materials.
 
-https://images-ext-2.discordapp.net/external/ZZGUiCLKc58UKneqWEQSaan8yGUK3P5YYxCbsJHMQ4w/https/pbs.twimg.com/media/FDm6NahagAA7H5f.jpg%3Alarge?width=1390&height=671
+<!-- https://images-ext-2.discordapp.net/external/ZZGUiCLKc58UKneqWEQSaan8yGUK3P5YYxCbsJHMQ4w/https/pbs.twimg.com/media/FDm6NahagAA7H5f.jpg%3Alarge?width=1390&height=671 -->
 ![Free Quest](https://images-ext-2.discordapp.net/external/ZZGUiCLKc58UKneqWEQSaan8yGUK3P5YYxCbsJHMQ4w/https/pbs.twimg.com/media/FDm6NahagAA7H5f.jpg%3Alarge?width=1390&height=671)
