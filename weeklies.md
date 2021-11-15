@@ -5,6 +5,12 @@ __**WEEKLY MASTER MISSIONS (mm/dd/yyyy - mm/dd/yyyy) **__
 r/fgoguide link: <https://old.reddit.com/r/FGOGuide/comments/>
 ```
 
+Attributes: [Sky - 天] [Earth - 地] [Man - 人]
+
+Alignment: [Chaotic - 混沌] [Evil - 恶] [Neutral - 中立] [Neutral - 中庸] [Good - 善] [Lawful - 秩序]
+
+Traits: [Demonic - 魔性] [Humanoid - 人型] [Super Large - 超巨大] [Beast - 猛獸] [Divine - 神性] [Dragon - 竜] [Male - 男性] [Female - 女性]
+
 
 - Defeat 3 [Good - 善] alignment servants
 - Defeat 3 [Evil - 悪 ] alignment servants
