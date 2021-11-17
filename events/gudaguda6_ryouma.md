@@ -1,4 +1,6 @@
-# "GUDAGUDA Yamatai-koku 2021 Rerun" Event Guide
+# Shouwa Kishin Plan GudaGuda Ryouma's Close Call! 
+### ~The Mystery of Nobbu Head's Disappearance!~ 
+### Event Guide
 ![Nobu!](https://cdn.discordapp.com/attachments/825747387825389589/910419166241112094/nobudermissinghead.gif)
 - Duration: 17-Nov (Wed) 20:00 to NN-Nov (Wed) 12:59 JST
 - Participation Requirements: Clear part 2 chapter 5.5 Heian-kyō. Epic of Remnant clear is not needed.
@@ -12,14 +14,14 @@
 ## Recommended Support List
 
 [https://twitter.com/niconikon01/](https://twitter.com/niconikon01/)
-
 ![Support List](https://cdn.discordapp.com/attachments/825747387825389589/910419166241112094/nobudermissinghead.gif)
 
 ## Free Quest Info
-
+ 
 ![Free Quest](https://cdn.discordapp.com/attachments/825747387825389589/910419166241112094/nobudermissinghead.gif)
 
 ## Challenge Quest
+
 
 ## Resources / Credits
 
