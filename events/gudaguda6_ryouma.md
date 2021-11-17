@@ -7,7 +7,7 @@
 - Participation Requirements: Clear part 2 chapter 5.5 Heian-kyō. Epic of Remnant clear is not needed.
 
 
-- Do the event to get the welfare Nazo no Ranmaru X :Avenger:, complete the event's story and they will officially join you.
+- Do the event to get the welfare Mysterious Ranmaru X :Avenger:, complete the event's story and they will officially join you.
 - Mission-based event
 - Daily timegates until 23-Nov. Need to complete specific missions to progress the story.
 - Event CE "★ 5 (SSR) Geisha Dancing with Flowers" provides 100% atk bonus
@@ -25,6 +25,13 @@
 - Progress the event's main story
 - Do free quests to complete missions and further progress the story
 - Mission spreadsheet: [https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml)
+
+## Event Exclusive Drops
+- Welfare ★ (SR) Avenger [Mysterious Ranmaru X](https://fategrandorder.fandom.com/wiki/Mysterious_Ranmaru_X)
+- Shop CE ★ 5 (SSR) [Geisha Dancing with Flowers](https://fategrandorder.fandom.com/wiki/Geisha_Dancing_with_Flowers) - Event pmod +100% (+200%), 30% (50%) Starting NP, pmod +25% (+30%) against demonic 
+- ★ 5 Command Code [Demon Vice-Commander](https://fategrandorder.fandom.com/wiki/Demon_Vice-Commander) - Crit Damage +10%-30% on engraved card depending on remaining HP
+- ★ 4 Command Code [Gentle Wish](https://fategrandorder.fandom.com/wiki/Gentle_Wish) - Arts Star Absorb +150%
+- ★ 3 Command Code [Nobu-Sengumi](https://fategrandorder.fandom.com/wiki/Nobu-Sengumi_(CC)) - Quick Critical +15%
 
 ## Event Bonuses
 [https://twitter.com/niconikon01/status/1460950308838731780](https://twitter.com/niconikon01/status/1460950308838731780)
