@@ -3,7 +3,7 @@
 
 ![Banner](https://news.fate-go.jp/wp-content/uploads/2021/kikiippatsu_full_worla/top_banner.png)
 
-- Duration: 17-Nov (Wed) 20:00 to 1-Dec (Wed) 12:59 JST
+- Duration: 17-Nov (Wed) 20:00 to 1-Dec (Wed) 12:59 JST ([timezone conversion here](https://www.tickcounter.com/countdown/2883167/gudaguda-6-ends-in)).
 - Participation Requirements: Clear part 2 chapter 5.5 Heian-kyō. Epic of Remnant clear is not needed.
 
 
@@ -56,5 +56,6 @@ Make sure to get all of these!
 - Appmedia (Japanese; Fastest to Update): [https://appmedia.jp/fategrandorder/27120865](https://appmedia.jp/fategrandorder/27120865)
 - Mission spreadsheet: [https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml)
 - niconikon01 (Drop Maps/Recommended Support): [https://twitter.com/niconikon01/](https://twitter.com/niconikon01/)
+- Local Timezone conversion for event times (c/o u/BlameLib): [https://www.tickcounter.com/countdown/2883167/gudaguda-6-ends-in](https://www.tickcounter.com/countdown/2883167/gudaguda-6-ends-in)
 - niconiconueh#3928 for the nobu gif
 - Konchew#9687 for the title translation
