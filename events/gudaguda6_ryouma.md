@@ -32,3 +32,4 @@
 - Appmedia (Japanese; Fastest to Update): [https://appmedia.jp/fategrandorder/27120865](https://appmedia.jp/fategrandorder/27120865)
 - niconikon01 (Drop Maps/Recommended Support): [https://twitter.com/niconikon01/](https://twitter.com/niconikon01/)
 - niconiconueh#3928 for the nobu gif
+- Konchew#9687 for the title translation
