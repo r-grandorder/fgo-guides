@@ -27,11 +27,15 @@
 - Mission spreadsheet: [https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml)
 
 ## Event Exclusive Drops
+
+Make sure to get all of these!
+
 - Welfare ★ (SR) Avenger [Mysterious Ranmaru X](https://fategrandorder.fandom.com/wiki/Mysterious_Ranmaru_X)
 - Shop CE ★ 5 (SSR) [Geisha Dancing with Flowers](https://fategrandorder.fandom.com/wiki/Geisha_Dancing_with_Flowers) - Event pmod +100% (+200%), 30% (50%) Starting NP, pmod +25% (+30%) against demonic 
 - ★ 5 Command Code [Demon Vice-Commander](https://fategrandorder.fandom.com/wiki/Demon_Vice-Commander) - Crit Damage +10%-30% on engraved card depending on remaining HP
 - ★ 4 Command Code [Gentle Wish](https://fategrandorder.fandom.com/wiki/Gentle_Wish) - Arts Star Absorb +150%
 - ★ 3 Command Code [Nobu-Sengumi](https://fategrandorder.fandom.com/wiki/Nobu-Sengumi_(CC)) - Quick Critical +15%
+- [Okada Izō's](https://fategrandorder.fandom.com/wiki/Okada_Iz%C5%8D) Costume.
 
 ## Event Bonuses
 [https://twitter.com/niconikon01/status/1460950308838731780](https://twitter.com/niconikon01/status/1460950308838731780)
