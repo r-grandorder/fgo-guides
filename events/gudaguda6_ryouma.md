@@ -10,7 +10,7 @@
 - Do the event to get the welfare Nazo no Ranmaru X :Avenger:, complete the event's story and they will officially join you.
 - Mission-based event
 - Daily timegates until 23-Nov. Need to complete specific missions to progress the story.
-- Event CE "★ 5 (SSR) Flower and Dance" provides 100% atk bonus
+- Event CE "★ 5 (SSR) Geisha Dancing with Flowers" provides 100% atk bonus
 
 
 - Additional "Detective Missions" are also available
