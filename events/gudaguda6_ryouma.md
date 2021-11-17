@@ -27,18 +27,12 @@
 - Mission spreadsheet: [https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml)
 
 ## Event Bonuses
-
-![Event Bonuses by niconikon01]()
-
+[https://twitter.com/niconikon01/status/1460950308838731780](https://twitter.com/niconikon01/status/1460950308838731780)
+![Event Bonuses by niconikon01](https://images-ext-1.discordapp.net/external/pTwYofI6v1f92y4C-2Rr0WXD5XmD3LPx5SoMLBZ_Wgo/https/pbs.twimg.com/media/FEZWFnGaQAAjJzq.jpg%3Alarge?width=620&height=671)
 ## Recommended Support List
-
-[https://twitter.com/niconikon01/](https://twitter.com/niconikon01/)
-
-![Support List]()
-
+![Support List](https://images-ext-2.discordapp.net/external/7V1LZrcr3ojQlspV6EGRIxuW3Utgs_YsYkxbKyelajc/https/pbs.twimg.com/media/FEZWG_IaQAo7Wxi.jpg%3Alarge)
 ## Free Quest Info
- 
-![Free Quest]()
+![Free Quest](https://images-ext-1.discordapp.net/external/U46vdHjqQQMDhT1Lom1OjmlavXE9n2sf_pVGbJwLtkg/https/pbs.twimg.com/media/FEZWBQlagAMJwKj.jpg%3Alarge?width=895&height=670)
 
 ## Challenge Quest
 
