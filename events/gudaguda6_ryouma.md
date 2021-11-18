@@ -31,7 +31,7 @@
 - Do free quests to complete missions and further progress the story
   
 ## Missions
-- Mission spreadsheet: [https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml)
+- [Mission spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml)
 - Appmedia's Detective Mission List: [https://appmedia.jp/fategrandorder/27133870](https://appmedia.jp/fategrandorder/27133870)
 - Appmedia's Mission List: [https://appmedia.jp/fategrandorder/27146401](https://appmedia.jp/fategrandorder/27146401)
 
@@ -65,7 +65,7 @@ Make sure to get all of these!
 - Appmedia (Japanese; Fastest to Update): [https://appmedia.jp/fategrandorder/27120865](https://appmedia.jp/fategrandorder/27120865)
   - Appmedia Detective Mission List: [https://appmedia.jp/fategrandorder/27133870](https://appmedia.jp/fategrandorder/27133870)
   - Appmedia Mission List: [https://appmedia.jp/fategrandorder/27146401](https://appmedia.jp/fategrandorder/27146401)
-- Mission spreadsheet: [https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml)
+- [Mission spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml)
 - niconikon01 (Drop Maps/Recommended Support): [https://twitter.com/niconikon01/](https://twitter.com/niconikon01/)
 - Local Timezone conversion for event times (c/o u/BlameLib): [https://www.tickcounter.com/countdown/2883167/gudaguda-6-ends-in](https://www.tickcounter.com/countdown/2883167/gudaguda-6-ends-in)
 - niconiconueh#3928 for the nobu gif
