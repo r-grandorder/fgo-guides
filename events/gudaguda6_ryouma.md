@@ -14,10 +14,12 @@
 
 
 - Additional "Detective Missions" are also available
-  - Every time you complete an event quest, there's a chance to get up to 20 "Detective missions". The missions you get will depend on your "Detective Rank"
+  - Every time you complete an event quest, there's a chance to get some "Detective missions". 
+  - The missions you get will depend on your "Detective Rank".
+  - You can keep up to 20 "Detective missions" at a time, there's a red button on the mission page to discard any mission that you don't want to do (e.g. to get a better ranking mission).
   - Completing these will give you rewards and increase your "Detective Rank".
   - Increasing your "Detective rank" improves the rewards you can get from the "Detective Missions".
-  - These can be done repeatedly.
+  - There is no limit on how many missions you can do.
 
 ![Nobu!](https://cdn.discordapp.com/attachments/825747387825389589/910419166241112094/nobudermissinghead.gif)
 
@@ -48,7 +50,7 @@ Make sure to get all of these!
 ## Challenge Quest
 
 
-## Resources / Credits
+## Resources / Credits / Notes
 
 - Official News Page: [https://news.fate-go.jp/2021/kikiippatsu/](https://news.fate-go.jp/2021/kikiippatsu/)
   - Rate up details: [https://news.fate-go.jp/2021/kikiippatsu_pu/](https://news.fate-go.jp/2021/kikiippatsu_pu/)
@@ -59,3 +61,4 @@ Make sure to get all of these!
 - Local Timezone conversion for event times (c/o u/BlameLib): [https://www.tickcounter.com/countdown/2883167/gudaguda-6-ends-in](https://www.tickcounter.com/countdown/2883167/gudaguda-6-ends-in)
 - niconiconueh#3928 for the nobu gif
 - Konchew#9687 for the title translation
+- Content posted here are mostly gathered from the event page (via machine TL) and the resources above, if there are any errors you can contact me through the [issues](https://github.com/enshael/fgo-guides/issues) page in this github repo or via Discord (Enshael#0001).
