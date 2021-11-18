@@ -47,12 +47,12 @@ Make sure to get all of these!
 - [Okada Izō's](https://fategrandorder.fandom.com/wiki/Okada_Iz%C5%8D) Costume.
 
 ## Event Bonuses
-[https://twitter.com/niconikon01/status/1460950308838731780](https://twitter.com/niconikon01/status/1460950308838731780)
-![Event Bonuses by niconikon01](https://images-ext-1.discordapp.net/external/pTwYofI6v1f92y4C-2Rr0WXD5XmD3LPx5SoMLBZ_Wgo/https/pbs.twimg.com/media/FEZWFnGaQAAjJzq.jpg%3Alarge?width=620&height=671)
+[https://twitter.com/niconikon01/status/1461275888507449344?t=0QnVwa4Fn-CBl3bKBh1xYg](https://twitter.com/niconikon01/status/1461275888507449344?t=0QnVwa4Fn-CBl3bKBh1xYg)
+![Event Bonuses by niconikon01](https://images-ext-1.discordapp.net/external/GMtuLTUG7Mc480X1POwQ_viDk_ZEs0ZhIKIyR9NTm1o/https/pbs.twimg.com/media/FEd-lnyagAkyPzh.jpg%3Alarge?width=620&height=671)
 ## Recommended Support List
-![Support List](https://images-ext-2.discordapp.net/external/7V1LZrcr3ojQlspV6EGRIxuW3Utgs_YsYkxbKyelajc/https/pbs.twimg.com/media/FEZWG_IaQAo7Wxi.jpg%3Alarge)
+![Support List](https://images-ext-2.discordapp.net/external/rTN0WoVfa7IxL6gxrglw946BYYouynTGcS8ZsMFpSls/https/pbs.twimg.com/media/FEd-nzbagAAQtQk.jpg%3Alarge?width=720&height=245)
 ## Free Quest Info
-![Free Quest](https://images-ext-1.discordapp.net/external/U46vdHjqQQMDhT1Lom1OjmlavXE9n2sf_pVGbJwLtkg/https/pbs.twimg.com/media/FEZWBQlagAMJwKj.jpg%3Alarge?width=895&height=670)
+![Free Quest](https://images-ext-2.discordapp.net/external/K2ddtDLCr8E-UA5kMsWg0EWPXAtMTGpdo7FmFH76aoY/https/pbs.twimg.com/media/FEd-isMaMAMu_Md.jpg%3Alarge?width=685&height=671)
 
 ## Challenge Quest
 
