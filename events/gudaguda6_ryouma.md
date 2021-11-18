@@ -61,13 +61,13 @@ Make sure to get all of these!
 
 - Official News Page: [https://news.fate-go.jp/2021/kikiippatsu/](https://news.fate-go.jp/2021/kikiippatsu/)
   - Rate up details: [https://news.fate-go.jp/2021/kikiippatsu_pu/](https://news.fate-go.jp/2021/kikiippatsu_pu/)
-- Wikia: [https://fategrandorder.fandom.com/wiki/GUDAGUDA_Close_Call_2021](https://fategrandorder.fandom.com/wiki/GUDAGUDA_Close_Call_2021)
+- [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/GUDAGUDA_Close_Call_2021)
 - Appmedia (Japanese; Fastest to Update): [https://appmedia.jp/fategrandorder/27120865](https://appmedia.jp/fategrandorder/27120865)
   - Appmedia Detective Mission List: [https://appmedia.jp/fategrandorder/27133870](https://appmedia.jp/fategrandorder/27133870)
   - Appmedia Mission List: [https://appmedia.jp/fategrandorder/27146401](https://appmedia.jp/fategrandorder/27146401)
 - [Mission spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml)
 - niconikon01 (Drop Maps/Recommended Support): [https://twitter.com/niconikon01/](https://twitter.com/niconikon01/)
-- Local Timezone conversion for event times (c/o u/BlameLib): [https://www.tickcounter.com/countdown/2883167/gudaguda-6-ends-in](https://www.tickcounter.com/countdown/2883167/gudaguda-6-ends-in)
+- [Local Timezone conversion](https://www.tickcounter.com/countdown/2883167/gudaguda-6-ends-in) for event times (c/o u/BlameLib)
 - niconiconueh#3928 for the nobu gif
 - Konchew#9687 for the title translation
 - Content posted here are mostly gathered from the event page (via machine TL) and the resources above, if there are any errors you can contact me through the [issues](https://github.com/enshael/fgo-guides/issues) page in this github repo or via Discord (Enshael#0001).
