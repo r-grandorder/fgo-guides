@@ -1,3 +1,5 @@
+[< Event List](../index.md)
+
 # Shouwa Kishin Plan GudaGuda Ryouma's Close Call! 
 ### \~The Mystery of Nobbu Head's Disappearance!\~ Event Guide
 
@@ -62,3 +64,5 @@ Make sure to get all of these!
 - niconiconueh#3928 for the nobu gif
 - Konchew#9687 for the title translation
 - Content posted here are mostly gathered from the event page (via machine TL) and the resources above, if there are any errors you can contact me through the [issues](https://github.com/enshael/fgo-guides/issues) page in this github repo or via Discord (Enshael#0001).
+
+[< Event List](../index.md)
