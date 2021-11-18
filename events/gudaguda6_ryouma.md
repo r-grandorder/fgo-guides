@@ -54,7 +54,8 @@ Make sure to get all of these!
 - ★ 3 Command Code [Nobu-Sengumi](https://fategrandorder.fandom.com/wiki/Nobu-Sengumi_(CC)) - Quick Critical +15%
 
 # Event Bonuses
-[https://twitter.com/niconikon01/status/1461275888507449344?t=0QnVwa4Fn-CBl3bKBh1xYg](https://twitter.com/niconikon01/status/1461275888507449344?t=0QnVwa4Fn-CBl3bKBh1xYg)
+[credits to @niconikon01](https://twitter.com/niconikon01/status/1461275888507449344)
+
 ![Event Bonuses by niconikon01](https://images-ext-1.discordapp.net/external/GMtuLTUG7Mc480X1POwQ_viDk_ZEs0ZhIKIyR9NTm1o/https/pbs.twimg.com/media/FEd-lnyagAkyPzh.jpg%3Alarge?width=620&height=671)
 # Recommended Support List
 ![Support List](https://images-ext-2.discordapp.net/external/rTN0WoVfa7IxL6gxrglw946BYYouynTGcS8ZsMFpSls/https/pbs.twimg.com/media/FEd-nzbagAAQtQk.jpg%3Alarge?width=720&height=245)
