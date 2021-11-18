@@ -22,13 +22,18 @@
   - Completing these will give you rewards and increase your "Detective Rank".
   - Increasing your "Detective rank" improves the rewards you can get from the "Detective Missions".
   - There is no limit on how many missions you can do.
+  - Check [missions](#missions) for translated mission lists
 
 ![Nobu!](https://cdn.discordapp.com/attachments/825747387825389589/910419166241112094/nobudermissinghead.gif)
 
 ## Frequently Asked Questions/How-To
 - Progress the event's main story
 - Do free quests to complete missions and further progress the story
+  
+## Missions
 - Mission spreadsheet: [https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml)
+- Appmedia's Detective Mission List: [https://appmedia.jp/fategrandorder/27133870](https://appmedia.jp/fategrandorder/27133870)
+- Appmedia's Mission List: [https://appmedia.jp/fategrandorder/27146401](https://appmedia.jp/fategrandorder/27146401)
 
 ## Event Exclusive Drops
 
@@ -58,6 +63,8 @@ Make sure to get all of these!
   - Rate up details: [https://news.fate-go.jp/2021/kikiippatsu_pu/](https://news.fate-go.jp/2021/kikiippatsu_pu/)
 - Wikia: [https://fategrandorder.fandom.com/wiki/GUDAGUDA_Close_Call_2021](https://fategrandorder.fandom.com/wiki/GUDAGUDA_Close_Call_2021)
 - Appmedia (Japanese; Fastest to Update): [https://appmedia.jp/fategrandorder/27120865](https://appmedia.jp/fategrandorder/27120865)
+  - Appmedia Detective Mission List: [https://appmedia.jp/fategrandorder/27133870](https://appmedia.jp/fategrandorder/27133870)
+  - Appmedia Mission List: [https://appmedia.jp/fategrandorder/27146401](https://appmedia.jp/fategrandorder/27146401)
 - Mission spreadsheet: [https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml)
 - niconikon01 (Drop Maps/Recommended Support): [https://twitter.com/niconikon01/](https://twitter.com/niconikon01/)
 - Local Timezone conversion for event times (c/o u/BlameLib): [https://www.tickcounter.com/countdown/2883167/gudaguda-6-ends-in](https://www.tickcounter.com/countdown/2883167/gudaguda-6-ends-in)
