@@ -1,4 +1,7 @@
-# __**"<EVENT_NAME>" Event Guide**__
+
+
+
+#### __**"<EVENT_NAME>" Event Guide**__
 - Duration: DD-Mon (Day) 18:00 to DD-Mon (Day) 12:59 JST
 - <SINGULARITY_CLEAR> Story Clear is required to participate
 - Mission Based Event
