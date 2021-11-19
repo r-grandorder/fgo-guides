@@ -26,19 +26,26 @@
 ![Nobu!](https://cdn.discordapp.com/attachments/825747387825389589/910419166241112094/nobudermissinghead.gif)
 
 # Missions
-- [Mission spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml)
-- Appmedia's Detective Mission List: [https://appmedia.jp/fategrandorder/27133870](https://appmedia.jp/fategrandorder/27133870)
-- Appmedia's Mission List: [https://appmedia.jp/fategrandorder/27146401](https://appmedia.jp/fategrandorder/27146401)
+[Google Sheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml){: .btn }
+[Appmedia](https://appmedia.jp/fategrandorder/27146401){: .btn }
+[Wikia/Fandom](https://fategrandorder.fandom.com/wiki/GUDAGUDA_Close_Call_2021/Mission){: .btn }
 
 # Detective Missions
+[Appmedia](https://appmedia.jp/fategrandorder/27133870){: .btn }
+[Wikia/Fandom](https://fategrandorder.fandom.com/wiki/GUDAGUDA_Close_Call_2021/Detective_Mission){: .btn }
+
 - "Detective Missions" are additional objectives to gain extra drops (FP, QP, MP, Bronze mats)
   - Every time you complete an event quest, there's a chance to get some "Detective missions". 
-  - The missions you get will depend on your "Detective Rank".
+  - The missions and rewards will depend on your "Detective Rank".
   - You can keep up to 20 "Detective missions" at a time, there's a red button on the mission page to discard any mission that you don't want to do (e.g. to get a better ranking mission).
-  - Completing these will give you rewards and increase your "Detective Rank".
-  - Increasing your "Detective rank" improves the rewards you can get from the "Detective Missions".
+  - Completing the missions will increase your "Detective Rank".
   - There is no limit on how many missions you can do.
-  - Check [missions](#missions) for translated mission lists
+  - Click on the buttons above for the available "Detective missions".
+
+Reminder!
+{: .label .label-red }
+
+  - Since there are detective missions that require you to field a knight, cavalry or extra class. It is recommended to set up your farming team to have one servant for each of the 3 categories.
   
 # Event Exclusive Drops
 Make sure to get all of these!
