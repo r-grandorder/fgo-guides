@@ -1,4 +1,11 @@
-# 2021-11-03 "GUDAGUDA Yamatai-koku 2021 Rerun" Event Guide
+---
+layout: default
+title: GUDAGUDA Yamatai-koku 2021 Rerun
+parent: Events
+nav_order: 2
+---
+
+# "GUDAGUDA Yamatai-koku 2021 Rerun" Event Guide
 - Duration: 3-Nov (Wed) 18:00 to 17-Nov (Wed) 12:59 JST
 - Fuyuki Story Clear is required to participate
 - Mission Based Event; With Raids on the 2nd part of the event (7-Nov (Sun) 18:00)

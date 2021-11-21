@@ -1,3 +1,10 @@
+---
+layout: default
+title: Fate/Requiem Board Game Apocalypse
+parent: Events
+nav_order: 1
+---
+
 # Fate/Requiem Board Game Apocalypse
 
 # Mosaic City Monopoly (Game #1)
