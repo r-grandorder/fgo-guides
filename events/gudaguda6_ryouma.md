@@ -68,13 +68,13 @@ Make sure to get all of these!
 - ★ 3 Command Code [Nobu-Sengumi](https://fategrandorder.fandom.com/wiki/Nobu-Sengumi_(CC)) - Quick Critical +15%
 
 # Event Bonuses
-[credits to @niconikon01](https://twitter.com/niconikon01/status/1461996004237062147)
+[credits to @niconikon01](https://twitter.com/niconikon01/status/1462358865157132288?t=gVwv43PC69KRmpIbgyWZpw)
 
-![Event Bonuses by niconikon01](https://images-ext-2.discordapp.net/external/Vx_f8In07evo1ikM2SLuyJAeZfWOJuxtRQsbNgjt5GE/https/pbs.twimg.com/media/FEoNcJyXIAQw-Y7.jpg%3Alarge?width=620&height=671)
+![Event Bonuses by niconikon01](https://images-ext-1.discordapp.net/external/65ebnxgppWFxSBW8oMwllV7RkMkhiZasYThmexZkA4g/https/pbs.twimg.com/media/FEtXi8kagAIkdYT.jpg%3Alarge?width=620&height=671)
 # Recommended Support List
-![Support List](https://images-ext-2.discordapp.net/external/S6ZWl-sOZLVzltMxQ7CNh7UpeHWwNrMSd-wR08-6ZrU/https/pbs.twimg.com/media/FEoNdWcWQAIY77t.jpg%3Alarge?width=720&height=201)
+![Support List](https://images-ext-2.discordapp.net/external/VgS0CKdK5Z0b75gmyPnFZP1M8qSH54joWT4mUNWiVZ8/https/pbs.twimg.com/media/FEtXkilaAAM1Pkd.jpg%3Alarge?width=720&height=269)
 # Free Quest Info
-![Free Quest](https://images-ext-1.discordapp.net/external/kCIQFqIBuU6jXzEHkj8h7Sp7yzYUGiKHqmnTfW-dL_w/https/pbs.twimg.com/media/FEoNZmiUYAYyvnv.jpg%3Alarge?width=720&height=570)
+![Free Quest](https://images-ext-2.discordapp.net/external/ZYozDDyXGutaP0OUq-BxR_UEP9THHUYu0GOav8e8JCg/https/pbs.twimg.com/media/FEtXg8waQAEMw-a.jpg%3Alarge?width=720&height=562)
 
 # Challenge Quest
 
