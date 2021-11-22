@@ -68,13 +68,13 @@ Make sure to get all of these!
 - ★ 3 Command Code [Nobu-Sengumi](https://fategrandorder.fandom.com/wiki/Nobu-Sengumi_(CC)) - Quick Critical +15%
 
 # Event Bonuses
-[credits to @niconikon01](https://twitter.com/niconikon01/status/1462358865157132288?t=gVwv43PC69KRmpIbgyWZpw)
+[credits to @niconikon01](https://twitter.com/niconikon01/status/1462727636510068742)
 
-![Event Bonuses by niconikon01](https://images-ext-1.discordapp.net/external/65ebnxgppWFxSBW8oMwllV7RkMkhiZasYThmexZkA4g/https/pbs.twimg.com/media/FEtXi8kagAIkdYT.jpg%3Alarge?width=620&height=671)
+![Event Bonuses by niconikon01](https://images-ext-1.discordapp.net/external/3W4durde23NAv1yIjMa8fOpK4Ukl-e2IiyZ4NTSGATY/https/pbs.twimg.com/media/FEymm_BacAcCX4X.jpg%3Alarge?width=624&height=671)
 # Recommended Support List
-![Support List](https://images-ext-2.discordapp.net/external/VgS0CKdK5Z0b75gmyPnFZP1M8qSH54joWT4mUNWiVZ8/https/pbs.twimg.com/media/FEtXkilaAAM1Pkd.jpg%3Alarge?width=720&height=269)
+![Support List](https://images-ext-1.discordapp.net/external/sw_Q1dSDRTsTvE4xTQIyxKNsoI9BL2V5v0ggKpsWFCQ/https/pbs.twimg.com/media/FEymocpakAMaD9k.jpg%3Alarge)
 # Free Quest Info
-![Free Quest](https://images-ext-2.discordapp.net/external/ZYozDDyXGutaP0OUq-BxR_UEP9THHUYu0GOav8e8JCg/https/pbs.twimg.com/media/FEtXg8waQAEMw-a.jpg%3Alarge?width=720&height=562)
+![Free Quest](https://images-ext-2.discordapp.net/external/tki-bIWyqwj1FhLFX6Qi0RaW2uZnRER5XILf9chaiBQ/https/pbs.twimg.com/media/FEymOiaaIAATCan.jpg%3Alarge?width=755&height=671)
 
 # Challenge Quest
 
@@ -83,6 +83,7 @@ Make sure to get all of these!
 
 - Official News Page: [https://news.fate-go.jp/2021/kikiippatsu/](https://news.fate-go.jp/2021/kikiippatsu/)
   - Rate up details: [https://news.fate-go.jp/2021/kikiippatsu_pu/](https://news.fate-go.jp/2021/kikiippatsu_pu/)
+  - Rate up 2 details: [https://news.fate-go.jp/2021/kikiippatsu_pu2/](https://news.fate-go.jp/2021/kikiippatsu_pu2/)
 - [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/GUDAGUDA_Close_Call_2021)
 - Appmedia (Japanese; Fastest to Update): [https://appmedia.jp/fategrandorder/27120865](https://appmedia.jp/fategrandorder/27120865)
   - Appmedia Detective Mission List: [https://appmedia.jp/fategrandorder/27133870](https://appmedia.jp/fategrandorder/27133870)
