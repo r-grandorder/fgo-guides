@@ -68,12 +68,13 @@ Make sure to get all of these!
 - ★ 3 Command Code [Nobu-Sengumi](https://fategrandorder.fandom.com/wiki/Nobu-Sengumi_(CC)) - Quick Critical +15%
 
 # Event Bonuses
-[credits to @niconikon01](https://twitter.com/niconikon01/status/1462727636510068742)
+[credits to @niconikon01](https://twitter.com/niconikon01/status/1462727636510068742) for the bonuses, support list, and free quest images.
 
 ![Event Bonuses by niconikon01](https://images-ext-1.discordapp.net/external/3W4durde23NAv1yIjMa8fOpK4Ukl-e2IiyZ4NTSGATY/https/pbs.twimg.com/media/FEymm_BacAcCX4X.jpg%3Alarge?width=624&height=671)
 # Recommended Support List
 ![Support List](https://images-ext-1.discordapp.net/external/sw_Q1dSDRTsTvE4xTQIyxKNsoI9BL2V5v0ggKpsWFCQ/https/pbs.twimg.com/media/FEymocpakAMaD9k.jpg%3Alarge)
 # Free Quest Info
+- [Appmedia](https://appmedia.jp/fategrandorder/27135688) has a list of free quests with traits listed as well.
 ![Free Quest](https://images-ext-2.discordapp.net/external/tki-bIWyqwj1FhLFX6Qi0RaW2uZnRER5XILf9chaiBQ/https/pbs.twimg.com/media/FEymOiaaIAATCan.jpg%3Alarge?width=755&height=671)
 
 # Challenge Quest
@@ -85,9 +86,12 @@ Make sure to get all of these!
   - Rate up details: [https://news.fate-go.jp/2021/kikiippatsu_pu/](https://news.fate-go.jp/2021/kikiippatsu_pu/)
   - Rate up 2 details: [https://news.fate-go.jp/2021/kikiippatsu_pu2/](https://news.fate-go.jp/2021/kikiippatsu_pu2/)
 - [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/GUDAGUDA_Close_Call_2021)
+  - [Detective Mission List](https://fategrandorder.fandom.com/wiki/GUDAGUDA_Close_Call_2021/Detective_Mission)
+  - [Mission List](https://fategrandorder.fandom.com/wiki/GUDAGUDA_Close_Call_2021/Mission)
 - Appmedia (Japanese; Fastest to Update): [https://appmedia.jp/fategrandorder/27120865](https://appmedia.jp/fategrandorder/27120865)
-  - Appmedia Detective Mission List: [https://appmedia.jp/fategrandorder/27133870](https://appmedia.jp/fategrandorder/27133870)
-  - Appmedia Mission List: [https://appmedia.jp/fategrandorder/27146401](https://appmedia.jp/fategrandorder/27146401)
+  - Detective Mission List: [https://appmedia.jp/fategrandorder/27133870](https://appmedia.jp/fategrandorder/27133870)
+  - Mission List: [https://appmedia.jp/fategrandorder/27146401](https://appmedia.jp/fategrandorder/27146401)
+  - Free Quest List (has traits listed): [https://appmedia.jp/fategrandorder/27135688](https://appmedia.jp/fategrandorder/27135688)
 - [Mission spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTWAdMUS_qkKIdwTimifCDvPatCfb0WJ5d9EBexxRiOed8Iavsf_4m4jAoo-mjLzrYgtBWaayuPVBQH/pubhtml)
 - niconikon01 (Drop Maps/Recommended Support): [https://twitter.com/niconikon01/](https://twitter.com/niconikon01/)
 - [Local Timezone conversion](https://www.tickcounter.com/countdown/2883167/gudaguda-6-ends-in) for event times (c/o u/BlameLib)
