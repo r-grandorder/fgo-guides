@@ -76,7 +76,7 @@ Make sure to get all of these!
 ![Support List](https://images-ext-1.discordapp.net/external/sw_Q1dSDRTsTvE4xTQIyxKNsoI9BL2V5v0ggKpsWFCQ/https/pbs.twimg.com/media/FEymocpakAMaD9k.jpg%3Alarge)
 # Free Quest Info
 - [Appmedia](https://appmedia.jp/fategrandorder/27135688){:target="_blank"} has a list of free quests with traits listed as well.
-![Free Quest](https://images-ext-2.discordapp.net/external/tki-bIWyqwj1FhLFX6Qi0RaW2uZnRER5XILf9chaiBQ/https/pbs.twimg.com/media/FEymOiaaIAATCan.jpg%3Alarge?width=755&height=671)
+![Free Quest](https://images-ext-2.discordapp.net/external/6S_o8pmcOLsnS-MAsWlbQ_BzGsGAMViolnziFMqm4tY/%3Fformat%3Djpg%26name%3D4096x4096/https/pbs.twimg.com/media/FEyqaNFaMAkGD9B?width=720&height=628)
 
 #Post Epilogue Quests
 - Unlocked on 24-November
