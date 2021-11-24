@@ -59,6 +59,7 @@ Make sure to get all of these!
 
 - Welfare ★ (SR) Avenger [Mysterious Ranmaru X](https://fategrandorder.fandom.com/wiki/Mysterious_Ranmaru_X){:target="_blank"}
 - [Okada Izō's](https://fategrandorder.fandom.com/wiki/Okada_Iz%C5%8D){:target="_blank"} Costume.
+  
 
 - Shop CE ★ 5 (SSR) [Geisha Dancing with Flowers](https://fategrandorder.fandom.com/wiki/Geisha_Dancing_with_Flowers){:target="_blank"} - Event pmod +100% (+200%), 30% (50%) Starting NP, pmod +25% (+30%) against demonic 
 
@@ -77,8 +78,17 @@ Make sure to get all of these!
 - [Appmedia](https://appmedia.jp/fategrandorder/27135688){:target="_blank"} has a list of free quests with traits listed as well.
 ![Free Quest](https://images-ext-2.discordapp.net/external/tki-bIWyqwj1FhLFX6Qi0RaW2uZnRER5XILf9chaiBQ/https/pbs.twimg.com/media/FEymOiaaIAATCan.jpg%3Alarge?width=755&height=671)
 
+#Post Epilogue Quests
+- Unlocked on 24-November
+[Appmedia](https://appmedia.jp/fategrandorder/27185140){: .btn }{:target="_blank"}
+  
 # Challenge Quest
-
+[Appmedia](https://appmedia.jp/fategrandorder/27184963){: .btn }{:target="_blank"}
+- Single Enemy, Izumo no Okuni with 3 bars
+- 648k / 1m / 1.3m
+- Has Debuff Resistance
+- (Purple Diamond Buff) Attacking Okuni with the specified Card 7 times will charm her
+- Final Bar has 3 Special Resist. Will get reduced over 3 turns.
 
 # Resources / Credits / Notes
 
