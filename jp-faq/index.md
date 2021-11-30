@@ -156,11 +156,14 @@ Support list spoiler ascension setting
 (On by default. When on it hides spoiler ascensions from support list. Note that turning it off will still hide ascensions that have additional spoiler block like Douman and Oberon's 3rd and 4th ascensions.)
 
 `サーヴァントの再臨段階ランダムー括設定`
-Random ascension for all your Servants. 
+Random ascension setting.
+
+`所持サーヴァント表示設定`
+For yourself
 (When on, all Servants you use will have random ascension. You can't change your Servants ascension settings individually while this is on.)
 
-`強化済みの範囲内でランダムに表示します。`
-Random ascension for friends and followers.
+`フレンド&フォロー表示設定`
+For friends and followers
 (When on, your friends and followers will have random ascensions when using your support Servants.)
 
 `起動時のオープニング再生`
@@ -173,7 +176,7 @@ Opening playback at startup.
 {
   "title": "j) Game Options ゲームオプション",
   "url": "https://fategrandorder.fandom.com/wiki/Options",
-  "description": "`ボリュームレベル`\nVolume Levels for BGM/SFX/Voice\n\n`テキスト表示速度`\nText Display Speed\n\n`テキスト自動送り`\nAuto Text Speed\n\n`サポートサーヴァントの再臨状態設定の反映`\nShow Servant Final Ascension Art\n\n`サポートサーヴァントの霊衣状態の反映`\nShow Servant Special Costume Art\n\n`サポート選択画面の表示設定`\nSupport Selection Display Settings (Class-Advantage Default Support)\n\n`サーヴァントの初回宝具演出等倍設定`\nNormal NP Speed on First-Usage\n\n`サーヴァントのマイルームランダム表示設定`\nSet My Room Favorite Servant to Random\n\n`フレンドのメッセージ表示設定`\nShow Friend's Message\n\n`プッシュ通知`\nPush Notification for Full AP/BP\n\n`一括ダウンロード`\nDownload All Data\n\n`ブラックリストの管理`\nManage Friend Blacklist\n[Friends in Blacklist won't (1) show up in your Support List or (2) be able to send you Friend Requests]\n\n`解像度設定`: [`標準`] [`低解像度`]\nResolution setting: [Standard] [Low resolution]\n(You may not be able to change to low if you are using an old phone or the game can't get accurate information about your screen resolution)\n\n`サポートサーヴァントの霊基ネタバレ防止機能を有効にする`\nSupport list spoiler ascension setting\n(On by default. When on it hides spoiler ascensions from support list. Note that turning it off will still hide ascensions that have additional spoiler block like Douman and Oberon's 3rd and 4th ascensions.)\n\n`サーヴァントの再臨段階ランダムー括設定`\nRandom ascension for all your Servants. \n(When on, all Servants you use will have random ascension. You can't change your Servants ascension settings individually while this is on.)\n\n`強化済みの範囲内でランダムに表示します。`\nRandom ascension for friends and followers.\n(When on, your friends and followers will have random ascensions when using your support Servants.)\n\n`起動時のオープニング再生`\nOpening playback at startup. \n(When on, openings and PVs that you've already watched at startup will not play again.)\n\n(Button: `初期設定に戻す` / Restore to Default Settings)",
+  "description": "`ボリュームレベル`\nVolume Levels for BGM/SFX/Voice\n\n`テキスト表示速度`\nText Display Speed\n\n`テキスト自動送り`\nAuto Text Speed\n\n`サポートサーヴァントの再臨状態設定の反映`\nShow Servant Final Ascension Art\n\n`サポートサーヴァントの霊衣状態の反映`\nShow Servant Special Costume Art\n\n`サポート選択画面の表示設定`\nSupport Selection Display Settings (Class-Advantage Default Support)\n\n`サーヴァントの初回宝具演出等倍設定`\nNormal NP Speed on First-Usage\n\n`サーヴァントのマイルームランダム表示設定`\nSet My Room Favorite Servant to Random\n\n`フレンドのメッセージ表示設定`\nShow Friend's Message\n\n`プッシュ通知`\nPush Notification for Full AP/BP\n\n`一括ダウンロード`\nDownload All Data\n\n`ブラックリストの管理`\nManage Friend Blacklist\n[Friends in Blacklist won't (1) show up in your Support List or (2) be able to send you Friend Requests]\n\n`解像度設定`: [`標準`] [`低解像度`]\nResolution setting: [Standard] [Low resolution]\n(You may not be able to change to low if you are using an old phone or the game can't get accurate information about your screen resolution)\n\n`サポートサーヴァントの霊基ネタバレ防止機能を有効にする`\nSupport list spoiler ascension setting\n(On by default. When on it hides spoiler ascensions from support list. Note that turning it off will still hide ascensions that have additional spoiler block like Douman and Oberon's 3rd and 4th ascensions.)\n\n`サーヴァントの再臨段階ランダムー括設定`\nRandom ascension setting.\n\n`所持サーヴァント表示設定`\nFor yourself\n(When on, all Servants you use will have random ascension. You can't change your Servants ascension settings individually while this is on.)\n\n`フレンド&フォロー表示設定`\nFor friends and followers\n(When on, your friends and followers will have random ascensions when using your support Servants.)\n\n`起動時のオープニング再生`\nOpening playback at startup. \n(When on, openings and PVs that you've already watched at startup will not play again.)\n\n(Button: `初期設定に戻す` / Restore to Default Settings)",
   "color": 6094972,
   "image": "https://cdn.discordapp.com/attachments/610464668959375370/611198628089823288/Game_Options.png"
 }
