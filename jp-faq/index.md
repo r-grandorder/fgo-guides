@@ -223,36 +223,39 @@ __Android__: Credit/Debit/Paypal/JP Google Play Gift Cards (assuming you have a 
 
 #V) Gameplay Frequently Asked Questions & Guides
 ```markdown
-[__**a) Comprehensive F/GO Gameplay Guide**__](https://discordapp.com/channels/274980577545945090/274981376543948812/386346335554633729)
+[a) Comprehensive F/GO Gameplay Guide](https://discordapp.com/channels/274980577545945090/274981376543948812/386346335554633729)
 
-[__**b) Materials Drop List**__](https://docs.google.com/spreadsheets/d/1_SlTjrVRTgHgfS7sRqx4CeJMqlz687HdSlYqiW-JvQA/htmlview?sle=true#gid=0)
+[b) Materials Drop List](https://docs.google.com/spreadsheets/d/1_SlTjrVRTgHgfS7sRqx4CeJMqlz687HdSlYqiW-JvQA/htmlview?sle=true#gid=0)
 
-__**c) Material and Experience Card Calculators**__
+c) Material and Experience Card Calculators
 <http://fgosimulator.webcrow.jp/Material/>
 <http://fgosimulator.webcrow.jp/Ember/>
 - Option on top right to change Language on Material Calculator
 
-[__**d) Battle Menu Translation**__](https://discordapp.com/channels/274980577545945090/274981376543948812/484138806321348608)
+[d) Battle Menu Translation](https://discordapp.com/channels/274980577545945090/274981376543948812/484138806321348608)
 
-[__**e) NP Damage Comparison Chart**__](https://docs.google.com/spreadsheets/d/1OTrMARN9I06zD_jIhGdmHFWpkePoSWv_xgEk3XPzZWY/edit#gid=1993499094)
+[e) NP Damage Comparison Chart](https://docs.google.com/spreadsheets/d/1OTrMARN9I06zD_jIhGdmHFWpkePoSWv_xgEk3XPzZWY/edit#gid=1993499094)
 
-[__**f) NP Generation Bug Explanation & Guide :LancelotBerserker:**__](https://discordapp.com/channels/274980577545945090/274981376543948812/456631561186705419)
+[f) NP Generation Bug Explanation & Guide :LancelotBerserker:](https://discordapp.com/channels/274980577545945090/274981376543948812/456631561186705419)
 
-[__**g) \"Looping\" Servants**__](https://discord.com/channels/274980577545945090/801243773483876432/801253734720995378)
+[g) \"Looping\" Servants](https://discord.com/channels/274980577545945090/801243773483876432/801253734720995378)
 -> Note: Higher NP levels are necessary for these servants to work on most relevant nodes. NP1 copies will be suboptimal at best, dysfunctional at worst. 
 
-[__**h) Part I Story Video Tutorials & Guides**__](https://discordapp.com/channels/274980577545945090/274981376543948812/385300946382487553)
+[h) Part I Story Video Tutorials & Guides](https://discordapp.com/channels/274980577545945090/274981376543948812/385300946382487553)
 
-[__**i) Part 2 Story Video Tutorials & Guides**__](https://www.youtube.com/playlist?list=PLwcpHdDBZvAugGUEMpQznENvt4t95wrwQ)
+[i) Part 2 Story Video Tutorials & Guides](https://www.youtube.com/playlist?list=PLwcpHdDBZvAugGUEMpQznENvt4t95wrwQ)
 
-__**j) F/GO Story Fan-Translation Compilation**__
+j) F/GO Story Fan-Translation Compilation
 <https://www.reddit.com/r/grandorder/comments/6yk9ql/story_summary_compilation/>
 <https://www.reddit.com/user/Volban>
+
+[k) What are the blue cubes?](https://fategrandorder.fandom.com/wiki/Spiritvein_Stone)
+Introduced with the 22M DL Campaign, Spiritvein Stones (or usually called Blue Prisms) function equivalently to a 3 CS/1 quartz revive. They have an expiration date tied to them and are restricted to main story content. They can be obtained through campaigns (both directly and through MP shop purchases).
 ```
 ```json
 {
   "title": "V) Gameplay Frequently Asked Questions & Guides",
-  "description": "[__**a) Comprehensive F/GO Gameplay Guide**__](https://discordapp.com/channels/274980577545945090/274981376543948812/386346335554633729)\n\n[__**b) Materials Drop List**__](https://docs.google.com/spreadsheets/d/1_SlTjrVRTgHgfS7sRqx4CeJMqlz687HdSlYqiW-JvQA/htmlview?sle=true#gid=0)\n\n__**c) Material and Experience Card Calculators**__\n<http://fgosimulator.webcrow.jp/Material/>\n<http://fgosimulator.webcrow.jp/Ember/>\n- Option on top right to change Language on Material Calculator\n\n[__**d) Battle Menu Translation**__](https://discordapp.com/channels/274980577545945090/274981376543948812/484138806321348608)\n\n[__**e) NP Damage Comparison Chart**__](https://docs.google.com/spreadsheets/d/1OTrMARN9I06zD_jIhGdmHFWpkePoSWv_xgEk3XPzZWY/edit#gid=1993499094)\n\n[__**f) NP Generation Bug Explanation & Guide :LancelotBerserker:**__](https://discordapp.com/channels/274980577545945090/274981376543948812/456631561186705419)\n\n[__**g) \"Looping\" Servants**__](https://discord.com/channels/274980577545945090/801243773483876432/801253734720995378)\n-> Note: Higher NP levels are necessary for these servants to work on most relevant nodes. NP1 copies will be suboptimal at best, dysfunctional at worst. \n\n[__**h) Part I Story Video Tutorials & Guides**__](https://discordapp.com/channels/274980577545945090/274981376543948812/385300946382487553)\n\n[__**i) Part 2 Story Video Tutorials & Guides**__](https://www.youtube.com/playlist?list=PLwcpHdDBZvAugGUEMpQznENvt4t95wrwQ)\n\n__**j) F/GO Story Fan-Translation Compilation**__\n<https://www.reddit.com/r/grandorder/comments/6yk9ql/story_summary_compilation/>\n<https://www.reddit.com/user/Volban>",
+  "description": "[a) Comprehensive F/GO Gameplay Guide](https://discordapp.com/channels/274980577545945090/274981376543948812/386346335554633729)\n\n[b) Materials Drop List](https://docs.google.com/spreadsheets/d/1_SlTjrVRTgHgfS7sRqx4CeJMqlz687HdSlYqiW-JvQA/htmlview?sle=true#gid=0)\n\nc) Material and Experience Card Calculators\n<http://fgosimulator.webcrow.jp/Material/>\n<http://fgosimulator.webcrow.jp/Ember/>\n- Option on top right to change Language on Material Calculator\n\n[d) Battle Menu Translation](https://discordapp.com/channels/274980577545945090/274981376543948812/484138806321348608)\n\n[e) NP Damage Comparison Chart](https://docs.google.com/spreadsheets/d/1OTrMARN9I06zD_jIhGdmHFWpkePoSWv_xgEk3XPzZWY/edit#gid=1993499094)\n\n[f) NP Generation Bug Explanation & Guide :LancelotBerserker:](https://discordapp.com/channels/274980577545945090/274981376543948812/456631561186705419)\n\n[g) \\\"Looping\\\" Servants](https://discord.com/channels/274980577545945090/801243773483876432/801253734720995378)\n-> Note: Higher NP levels are necessary for these servants to work on most relevant nodes. NP1 copies will be suboptimal at best, dysfunctional at worst. \n\n[h) Part I Story Video Tutorials & Guides](https://discordapp.com/channels/274980577545945090/274981376543948812/385300946382487553)\n\n[i) Part 2 Story Video Tutorials & Guides](https://www.youtube.com/playlist?list=PLwcpHdDBZvAugGUEMpQznENvt4t95wrwQ)\n\nj) F/GO Story Fan-Translation Compilation\n<https://www.reddit.com/r/grandorder/comments/6yk9ql/story_summary_compilation/>\n<https://www.reddit.com/user/Volban>\n\n[k) What are the blue cubes?](https://fategrandorder.fandom.com/wiki/Spiritvein_Stone)\nIntroduced with the 22M DL Campaign, Spiritvein Stones (or usually called Blue Prisms) function equivalently to a 3 CS/1 quartz revive. They have an expiration date tied to them and are restricted to main story content. They can be obtained through campaigns (both directly and through MP shop purchases).",
   "color": 6094972,
   "thumbnail": "https://cdn.discordapp.com/emojis/584722986964090883.png?size=44"
 }
