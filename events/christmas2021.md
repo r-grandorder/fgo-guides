@@ -35,7 +35,15 @@ nav_order: 4
 - Progress the Main Story to make Martha [Santa] permanent
 - Open lotto boxes (1st to 5th) to get Martha's Ascension Materials and NP copies
 - The ticket on the 5th lotto box will only be available to use after the final main quest (released on 13-December)
-- NP Preview: https://www.youtube.com/watch?v=IjNmMJhPh6w
+- NP Preview: [https://www.youtube.com/watch?v=IjNmMJhPh6w](https://www.youtube.com/watch?v=IjNmMJhPh6w)
+
+[Wikia/Fandom Proflie](https://fategrandorder.fandom.com/wiki/Martha_(Santa)){: .btn }{:target="_blank"}
+
+- S1: Target ally ATK up for 3 turns (20-30%); Increase their MAX HP for 3 turns (1000-2000); Charges their NP by 20% flat
+- S2: NP seal to all enemies for 1 turn; Decrease their DEF for 3 turns (10-20%)
+- S3: Target ally star weight up for 1 turn (3000-5000%); Flat 10 crit star bomb; Self NP charge (20-30%)
+- NP: Heals party (2000-4000 by OC); Flat party ATK up of 20% for 3 turns; Gives party special damage bonus against Divine/Undead/Demon for 3 turns (30-50%);
+Flat 20 crit star bomb
 
 # Rate up banner
 - Daily Rotation: 5* Beni Enma Saber, 5* Scathach-Skadi Caster
@@ -70,6 +78,7 @@ nav_order: 4
 ![Ticket](https://news.fate-go.jp/wp-content/uploads/2021/christmas2021_xazek/info_item_06.png)
 
 # Cooking Training
+[Appmedia](https://appmedia.jp/fategrandorder/27248038){: .btn }{:target="_blank"}
 - Complete the cooking training quests to obtain Servant Coins for Martha [Santa] and the event-exclusive Command Codes
 - Entry requires the shop currency, failing the quest will not consume the currency. 
 
