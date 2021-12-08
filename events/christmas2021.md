@@ -89,7 +89,7 @@ Flat 20 crit star bomb
 # Recommended Support List
 ![Support List](https://images-ext-2.discordapp.net/external/gf3I26XyHcxvGv1joLIP8d738KRbfZf1IQVKEwG2UK8/https/pbs.twimg.com/media/FGE4QU6VkAARuEJ.jpg%3Alarge?width=720&height=272)
 # Free Quest Info
-![Free Quest](https://images-ext-2.discordapp.net/external/CyPCSH_NPGdm-tHaeM1VKvqwzx9-cEiqoinNywPZY1I/https/pbs.twimg.com/media/FGE4AkgUUAIcoI8.jpg%3Alarge?width=615&height=671)
+![Free Quest](https://images-ext-2.discordapp.net/external/a55NaWl3KSJvzQxepYHOe5LiIDybVliKVLL_nzNR0Xc/https/pbs.twimg.com/media/FGFHgr3VIAIvd_C.jpg%3Alarge?width=449&height=670)
 
 # Challenge Quest
 
