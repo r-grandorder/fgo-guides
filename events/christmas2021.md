@@ -23,7 +23,7 @@ nav_order: 4
 ---
 
 # Event Details
-- Duration: 8-December 18:00 to 17-December 12:59 JST [Planned]
+- Duration: 8-December 18:00 to 17-December 12:59 JST [[Timer](https://www.tickcounter.com/countdown/2926851/jp-christmas-2021-ends-in)]
   - Note the shorter duration for the event
 - Participation Requirements: Clear Fuyuki
 - Lotto based event
