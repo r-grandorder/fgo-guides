@@ -27,6 +27,16 @@ nav_order: 4
   - Note the shorter duration for the event
 - Participation Requirements: Clear Fuyuki
 - Lotto based event
+- Lotto CE [Like a Lady](https://fategrandorder.fandom.com/wiki/Like_a_Lady) is obtainable from the event shop
+  - 30% (50%) Starting NP Charge; +15% (+20%) NP Generation Rate; +15% (+20%) Healing Received
+  
+! Important Note !
+{: .label .label-red }
+- As per usual, it's not advisable to use Apples until the final nodes are out.
+
+! Important Note !
+{: .label .label-red }
+- Do the Cooking Training Quests for quick rewards (first one has 200 Bronze)
 
 ![martherfiteme](https://cdn.discordapp.com/emojis/738692670498668564.gif?size=96)
 
@@ -48,7 +58,7 @@ Flat 20 crit star bomb
 # Rate up banner
 - Daily Rotation: 5* Beni Enma Saber, 5* Scathach-Skadi Caster
 - Fixed Pickup: 4* Emiya Archer, 4* Martha Rider
-- Event CEs: Holy Heart, Thousand Knights, Wish Come True
+- Event CEs: [Holy Heart](https://fategrandorder.fandom.com/wiki/Holy_Heart), [Thousand Nights](https://fategrandorder.fandom.com/wiki/Thousand_Nights), [Wish Come True](https://fategrandorder.fandom.com/wiki/Wish_Come_True)
 
 ![PU Banner](https://news.fate-go.jp/wp-content/uploads/2021/christmas2021_pu_pkdsh/top_banner.png)
 
