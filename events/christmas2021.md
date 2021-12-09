@@ -23,11 +23,11 @@ nav_order: 4
 ---
 
 # Event Details
-- Duration: 8-December 18:00 to 17-December 12:59 JST [[Timer](https://www.tickcounter.com/countdown/2926851/jp-christmas-2021-ends-in)]
+- Duration: 8-December 18:00 to 17-December 12:59 JST [[Timer](https://www.tickcounter.com/countdown/2926851/jp-christmas-2021-ends-in){:target="_blank"}]
   - Note the shorter duration for the event
 - Participation Requirements: Clear Fuyuki
 - Lotto based event
-- Lotto CE [Like a Lady](https://fategrandorder.fandom.com/wiki/Like_a_Lady) is obtainable from the event shop
+- Lotto CE [Like a Lady](https://fategrandorder.fandom.com/wiki/Like_a_Lady){:target="_blank"} is obtainable from the event shop
   - 30% (50%) Starting NP Charge; +15% (+20%) NP Generation Rate; +15% (+20%) Healing Received
   
 ! Important Note !
@@ -58,7 +58,7 @@ Flat 20 crit star bomb
 # Rate up banner
 - Daily Rotation: 5* Beni Enma Saber, 5* Scathach-Skadi Caster
 - Fixed Pickup: 4* Emiya Archer, 4* Martha Rider
-- Event CEs: [Holy Heart](https://fategrandorder.fandom.com/wiki/Holy_Heart), [Thousand Nights](https://fategrandorder.fandom.com/wiki/Thousand_Nights), [Wish Come True](https://fategrandorder.fandom.com/wiki/Wish_Come_True)
+- Event CEs: [Holy Heart](https://fategrandorder.fandom.com/wiki/Holy_Heart){:target="_blank"}, [Thousand Nights](https://fategrandorder.fandom.com/wiki/Thousand_Nights){:target="_blank"}, [Wish Come True](https://fategrandorder.fandom.com/wiki/Wish_Come_True){:target="_blank"}
 
 ![PU Banner](https://news.fate-go.jp/wp-content/uploads/2021/christmas2021_pu_pkdsh/top_banner.png)
 
@@ -93,13 +93,13 @@ Flat 20 crit star bomb
 - Entry requires the shop currency, failing the quest will not consume the currency. 
 
 # Event Bonuses
-[credits to @niconikon01](https://twitter.com/niconikon01/status/1468516988746354691){:target="_blank"} for the bonuses, support list, and free quest images.
+[credits to @niconikon01](https://twitter.com/niconikon01/status/1468873936582885379){:target="_blank"} for the bonuses, support list, and free quest images.
 
 ![Event Bonuses by niconikon01](https://images-ext-2.discordapp.net/external/xrWUSeif4znILxRjjKQ8WL2YERylx0z8d-xQkS5rNgo/https/pbs.twimg.com/media/FGE4C6JUYAEiboc.jpg%3Alarge?width=628&height=671)
 # Recommended Support List
 ![Support List](https://images-ext-2.discordapp.net/external/gf3I26XyHcxvGv1joLIP8d738KRbfZf1IQVKEwG2UK8/https/pbs.twimg.com/media/FGE4QU6VkAARuEJ.jpg%3Alarge?width=720&height=272)
 # Free Quest Info
-![Free Quest](https://images-ext-2.discordapp.net/external/a55NaWl3KSJvzQxepYHOe5LiIDybVliKVLL_nzNR0Xc/https/pbs.twimg.com/media/FGFHgr3VIAIvd_C.jpg%3Alarge?width=449&height=670)
+![Free Quest](https://images-ext-1.discordapp.net/external/F75XnG4_gqbuULd_mlmDw8Zo07hc4RBPzRc1-SfEX60/https/pbs.twimg.com/media/FGJ86hbVUAIJk3o.jpg%3Alarge?width=371&height=671)
 
 # Challenge Quest
 
