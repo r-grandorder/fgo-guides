@@ -93,13 +93,13 @@ Flat 20 crit star bomb
 - Entry requires the shop currency, failing the quest will not consume the currency. 
 
 # Event Bonuses
-[credits to @niconikon01](https://twitter.com/niconikon01/status/1468873936582885379){:target="_blank"} for the bonuses, support list, and free quest images.
+[credits to @niconikon01](https://twitter.com/niconikon01/status/1469234835994849280?s=20){:target="_blank"} for the bonuses, support list, and free quest images.
 
-![Event Bonuses by niconikon01](https://images-ext-2.discordapp.net/external/xrWUSeif4znILxRjjKQ8WL2YERylx0z8d-xQkS5rNgo/https/pbs.twimg.com/media/FGE4C6JUYAEiboc.jpg%3Alarge?width=628&height=671)
+![Event Bonuses by niconikon01](https://pbs.twimg.com/media/FGJ88N9UUAMEQau?format=jpg&name=4096x4096)
 # Recommended Support List
-![Support List](https://images-ext-2.discordapp.net/external/gf3I26XyHcxvGv1joLIP8d738KRbfZf1IQVKEwG2UK8/https/pbs.twimg.com/media/FGE4QU6VkAARuEJ.jpg%3Alarge?width=720&height=272)
+![Support List](https://pbs.twimg.com/media/FGPFILIUUAM1Y0f?format=jpg&name=large)
 # Free Quest Info
-![Free Quest](https://images-ext-1.discordapp.net/external/F75XnG4_gqbuULd_mlmDw8Zo07hc4RBPzRc1-SfEX60/https/pbs.twimg.com/media/FGJ86hbVUAIJk3o.jpg%3Alarge?width=371&height=671)
+![Free Quest](https://pbs.twimg.com/media/FGPE_acUcAcr3tM?format=jpg&name=4096x4096)
 
 # Challenge Quest
 
