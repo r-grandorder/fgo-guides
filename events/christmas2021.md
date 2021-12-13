@@ -89,6 +89,7 @@ Flat 20 crit star bomb
 
 # Cooking Training
 [Appmedia](https://appmedia.jp/fategrandorder/27248038){: .btn }{:target="_blank"}
+[Fandom/Wikia](https://fategrandorder.fandom.com/wiki/Christmas_2021/Cooking_Course_Quest){: .btn }{:target="_blank"}
 - Complete the cooking training quests to obtain Servant Coins for Martha [Santa] and the event-exclusive Command Codes
 - Entry requires the shop currency, failing the quest will not consume the currency. 
 
