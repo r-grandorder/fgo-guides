@@ -93,14 +93,19 @@ Flat 20 crit star bomb
 - Entry requires the shop currency, failing the quest will not consume the currency. 
 
 # Event Bonuses
-[credits to @niconikon01](https://twitter.com/niconikon01/status/1469960017898258435){:target="_blank"} for the bonuses, support list, and free quest images.
+[credits to @niconikon01](https://twitter.com/niconikon01/status/1470324389686427657){:target="_blank"} for the bonuses, support list, and free quest images.
 ![Event Bonuses by niconikon01](https://pbs.twimg.com/media/FGJ88N9UUAMEQau?format=jpg&name=4096x4096)
 # Recommended Support List
-![Support List](https://pbs.twimg.com/media/FGZYky_UYAIyTJj?format=jpg&name=large)
+![Support List](https://pbs.twimg.com/media/FGekHQmVcAAcKzn?format=jpg&name=large)
 # Free Quest Info
-![Free Quest](https://pbs.twimg.com/media/FGZYgqqVkAE0_r6?format=jpg&name=4096x4096)
+![Free Quest](https://pbs.twimg.com/media/FGekAVBUUAMwiPo?format=jpg&name=4096x4096)
 
 # Challenge Quest
+The event has two Challenge Quests, one requires Solomon clear, the other requires LB6 clear. See the links below for details.
+
+[Appmedia - Solomon Locked](https://appmedia.jp/fategrandorder/27260194){: .btn }{:target="_blank"}
+[Appmedia - LB6 Locked](https://appmedia.jp/fategrandorder/27263689){: .btn }{:target="_blank"}
+[Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Christmas_2021/Challenge_Quest){: .btn }{:target="_blank"}
 
 # Resources / Credits / Notes
 
