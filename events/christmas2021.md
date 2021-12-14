@@ -108,6 +108,20 @@ The event has two Challenge Quests, one requires Solomon clear, the other requir
 [Appmedia - LB6 Locked](https://appmedia.jp/fategrandorder/27263689){: .btn }{:target="_blank"}
 [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Christmas_2021/Challenge_Quest){: .btn }{:target="_blank"}
 
+## [High Difficulty] Starting! Hell's Kitchen Trial Version Gimmicks (Solomon Locked)
+c/o xNaya
+You're helping out in Hell's Kitchen
+- Wave 1: You're helping Kiyohime and Tomoe to grill a Wyvern. Each turn they'll add "grill counter" to the Wyvern, and if you defeat the Wyvern while it has 15 to 24 grill counter, you'll get a Buster buff. If you undercooked (IT'S FRICKING RAW) or overcooked it, you'll lose NP charge and get inflicted with Skill seal.
+- Wave 2: You're helping Tamamo and Osakabehime to prep a Fish. If you defeat the Fish fast enough, you'll get Art and Quick buff. If you're slow, you only get the Quick buff. If you're too slow, you'll get inflicted with NP seal instead.
+- Wave 3: Beni-enma Ramsay will get a 25% Damage Reduction Barrier for each failed Ingredient.
+
+## [High Difficulty] Hello, Joulopukki Gimmicks (LB6 Locked)
+c/o xNaya
+- Every turn, Skadi can give "presents" to your Servants, but not to "naughty kids".
+- Hitting Skadi or Habetrot will give your Servant "naughty kid" trait.
+- If a Servant has "naughty kid" trait, they will do less damage to Skadi, Habetrot and Oni.
+- Oni can also drain NP and deals more dmg to "naughty kids".
+
 # Resources / Credits / Notes
 
 - Official News Page: [https://news.fate-go.jp/2021/christmas2021/](https://news.fate-go.jp/2021/christmas2021/){:target="_blank"}
@@ -115,4 +129,5 @@ The event has two Challenge Quests, one requires Solomon clear, the other requir
 - [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Christmas_2021){:target="_blank"}
 - Appmedia (Japanese; Fastest to Update): [https://appmedia.jp/fategrandorder/27243004](https://appmedia.jp/fategrandorder/27243004){:target="_blank"}
 - niconikon01 (Drop Maps/Recommended Support): [https://twitter.com/niconikon01/](https://twitter.com/niconikon01/){:target="_blank"}
+- [xNaya](https://www.youtube.com/c/xNaya/videos) for CQ gimmicks
 - Content posted here are mostly gathered from the event page (via machine TL) and the resources above, if there are any errors you can contact me through the [issues](https://github.com/enshael/fgo-guides/issues){:target="_blank"} page in this github repo or via Discord (Enshael#0001).
