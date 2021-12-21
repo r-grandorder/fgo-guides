@@ -38,8 +38,15 @@ nav_order: 5
 ![Main Quest](https://cdn.discordapp.com/attachments/802752542538203147/922677518933303376/unknown.png)
 
 # Raid Schedule
-<!--<div>Registration closes in <span id="time">05:00</span> minutes!</div>-->
-![Raid](https://cdn.discordapp.com/attachments/802752542538203147/922677554777845760/unknown.png)
+
+| Raid | Period |
+| :-- | :-- |
+| 1st Round | Starts <span id="timer1"></span><br/>Ends <span id="timer5"></span>|
+| 2nd Round | Starts <span id="timer2"></span><br/>Ends <span id="timer6"></span>|
+| 3rd Round | Starts <span id="timer3"></span><br/>Ends <span id="timer7"></span>|
+| 4th Round | Starts <span id="timer4"></span><br/>Ends <span id="timer8"></span>|
+
+![Raid](https://cdn.discordapp.com/attachments/802752542538203147/922783749580660766/unknown.png)
 
 # Event Bonuses
 Credits to [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Tunguska_Sanctuary){:target="_blank"}
@@ -70,27 +77,34 @@ Credits to [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Tunguska_Sanctu
 -->
 
 <script>
-/*https://stackoverflow.com/a/20618517*/
-function startTimer(duration, display) {
-var timer = duration, minutes, seconds;
-setInterval(function () {
-  minutes = parseInt(timer / 60, 10);
-  seconds = parseInt(timer % 60, 10);
+setInterval(function () {  
+  var times = [1640250000, 1640336400, 1640422800, 1640509200, 1640271600,1640358000,1640444400,1640574000];
+  
+  var now = new Date().getTime() / 1000;
+  for(var i=0; i<times.length;i++){
+    var futureEvent = times[i] > now;
+    var diff = times[i]-now;
+    if(!futureEvent) {
+      diff = -diff;
+    }
+    /*https://stackoverflow.com/a/52387803*/
+    var d = Math.floor(diff / (60*60*24));
+    var h = Math.floor((diff % (60*60*24)) / (60*60));
+    var m = Math.floor((diff % (60*60)) / 60);
+    var s = Math.floor(diff % 60);
+    var dDisplay = d > 0 ? d + (d == 1 ? " day, " : " days, ") : "";
+    var hDisplay = h > 0 ? h + (h == 1 ? " hour, " : " hours, ") : "";
+    var mDisplay = m > 0 ? m + (m == 1 ? " minute, " : " minutes, ") : "";
+    var sDisplay = s > 0 ? s + (s == 1 ? " second" : " seconds") : "";
 
-  minutes = minutes < 10 ? "0" + minutes : minutes;
-  seconds = seconds < 10 ? "0" + seconds : seconds;
+    var disp = dDisplay + hDisplay + mDisplay + sDisplay;
 
-  display.textContent = minutes + ":" + seconds;
-
-  if (--timer < 0) {
-    timer = duration;
+    if(futureEvent) {
+      disp = "In " + disp + ".";
+    } else {
+      disp = disp + " ago.";
+    }
+    document.querySelector("#timer"+(i+1)).textContent = disp;
   }
 }, 1000);
-}
-
-window.onload = function () {
-var fiveMinutes = 60 * 5,
-    display = document.querySelector('#time');
-startTimer(fiveMinutes, display);
-};
 </script>
