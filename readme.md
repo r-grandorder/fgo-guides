@@ -1,1 +1,1 @@
-Access the site here: https://enshael.github.io/fgo-guides/
+Access the site here: https://r-grandorder.github.io/fgo-guides/

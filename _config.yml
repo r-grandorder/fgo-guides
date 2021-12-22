@@ -4,5 +4,5 @@ title: fgo-guides
 description: >- # this means to ignore newlines until "baseurl:"
   Guides for FGO Events
 baseurl: "/fgo-guides" # the subpath of your site, e.g. /blog
-url: "https://enshael.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: enshael
+url: "https://r-grandorder.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: r-grandorder
