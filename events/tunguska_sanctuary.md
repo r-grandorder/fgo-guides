@@ -52,6 +52,12 @@ nav_order: 5
 
 ![Raid](https://cdn.discordapp.com/attachments/802752542538203147/922783749580660766/unknown.png)
 
+# Raid Gimmicks
+## 1st Round
+- Ivan has a special defense buff that can be cleared by an NP. You can use someone with 100% charge like medea to clear the buff first.
+- Drops: (from 90+ node)
+  - Cursed Beast Gallstone, Eternal Ice, Proof Of Hero, Meteor Horseshoe, ~4.2m QP, 1.8k Bond
+
 # Event Bonuses
 Credits to [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Tunguska_Sanctuary){:target="_blank"}
 
