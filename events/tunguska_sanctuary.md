@@ -53,10 +53,14 @@ nav_order: 5
 ![Raid](https://cdn.discordapp.com/attachments/802752542538203147/922783749580660766/unknown.png)
 
 # Raid Gimmicks
-## 1st Round
+## 1st Round AN602-Ivan (Ivan the Terrible)
 - Ivan has a special defense buff that can be cleared by an NP. You can use someone with 100% charge like medea to clear the buff first.
 - Drops: (from 90+ node)
   - Cursed Beast Gallstone, Eternal Ice, Proof Of Hero, Meteor Horseshoe, ~4.2m QP, 1.8k Bond
+## 2nd Round R-36M2-Voevoda (Surtr)
+- Has Arts and Buster resist for two times. The buffs are separate, so you need two Arts or Buster cards before nuking.
+- Drops:
+  Scarab Of Wisdom, Rainbow Thread Ball, Aurora Steel, Dragon Fang
 
 # Event Bonuses
 Credits to [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Tunguska_Sanctuary){:target="_blank"}
@@ -76,6 +80,11 @@ Credits to [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Tunguska_Sanctu
   - They get evade and invul when you break a bar. They also get a buff that grants defense on attack.
   - Use the support ibuki and kill the giants with help from your own charger supports (e.g. Reines, Waver, Koyaya, Oberon, Castoria, Skadi)
   - Habetrot will remove the invul buffs on the turn you cast Mashu's Black Barrel Skill if you're having problems clearing the giants
+2. AN602-Ivan post raid quest
+  - NP Special Resist (1 time) like on the raid
+  - Charges NP to max and gains an invul buff on the final bar
+  - Habetrot can be summoned once to counter the Special Resist with Mashu's Black Barrel Skill
+  - Check the link for Main Quests above for more details
 
 # Resources / Credits / Notes
 
