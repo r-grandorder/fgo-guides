@@ -61,6 +61,10 @@ nav_order: 5
 - Has Arts and Buster resist for two times. The buffs are separate, so you need two Arts or Buster cards before nuking.
 - Drops:
   Scarab Of Wisdom, Rainbow Thread Ball, Aurora Steel, Dragon Fang
+## 3rd Round (Multiple Raids)
+- [https://twitter.com/niconikon01/status/1474673669368868867/photo/1](https://twitter.com/niconikon01/status/1474673669368868867/photo/1)
+- [Reddit](https://www.reddit.com/r/grandorder/comments/rm19td/cosmos_in_the_lostbelt_nonprimate_biosphere/hpwhfdn/)
+- Check niconikon or the reddit thread for any updates. They're going way too fast :jeannepotato:
 
 # Event Bonuses
 Credits to [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Tunguska_Sanctuary){:target="_blank"}
