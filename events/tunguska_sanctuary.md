@@ -57,14 +57,52 @@ nav_order: 5
 - Ivan has a special defense buff that can be cleared by an NP. You can use someone with 100% charge like medea to clear the buff first.
 - Drops: (from 90+ node)
   - Cursed Beast Gallstone, Eternal Ice, Proof Of Hero, Meteor Horseshoe, ~4.2m QP, 1.8k Bond
+
 ## 2nd Round R-36M2-Voevoda (Surtr)
 - Has Arts and Buster resist for two times. The buffs are separate, so you need two Arts or Buster cards before nuking.
 - Drops:
   Scarab Of Wisdom, Rainbow Thread Ball, Aurora Steel, Dragon Fang
+
 ## 3rd Round (Multiple Raids)
 - [https://twitter.com/niconikon01/status/1474673669368868867/photo/1](https://twitter.com/niconikon01/status/1474673669368868867/photo/1)
 - [Reddit](https://www.reddit.com/r/grandorder/comments/rm19td/cosmos_in_the_lostbelt_nonprimate_biosphere/hpwhfdn/)
 - Check niconikon or the reddit thread for any updates. They're going way too fast :jeannepotato:
+
+## 4th Round (Lostbelt: Beast IV)
+- There are multiple enemies in the raid but you only need to kill Beast IV. The extra mobs also drops some mats.
+- [Reddit Guide](https://www.reddit.com/r/grandorder/comments/rm19td/cosmos_in_the_lostbelt_nonprimate_biosphere/hq0brs4/)
+
+Class+Attribute: Beast
+
+Gender: Female
+
+Alignment: Chaotic, Evil
+
+Traits: Divine, Wild beast, Demonic, Divine Or Demon Or Undead, Super Giant
+
+Weak: None
+
+Resist: Casters do 0.5x damage to Beast IV.
+
+Our Buffs:
+- Support from Taiko Nozomi "Kunlun Mountains"
+- Increase dmg anti-divinity 10%, 5T
+- Increase dmg anti-demon 10%, 5T
+
+Possible ST Viable Units:
+- Astraea - Evil
+- Scathach - Divine
+- Nemo - Super Large
+- Beni - Chaotic Evil
+- Summer Nobu - Divine
+- Izumo - Demonic
+- Fujino - Super Large
+- Martha Ruler - Divine or Demon or Undead
+- Cinder Liz - Wild Beast
+- Proto Cu - Wild Beast
+- Super Orion - Wild Beast or Demonic
+- Tsuna (or Rama) - Demonic
+- Carmilla - Female
 
 # Event Bonuses
 Credits to [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Tunguska_Sanctuary){:target="_blank"}
