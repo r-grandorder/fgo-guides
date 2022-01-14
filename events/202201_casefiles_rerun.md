@@ -5,9 +5,7 @@ parent: Events
 nav_order: 6
 ---
 
-# Reprint - Lady Lines Case Files -Plus Episode-
-{: .no_toc }
-# Event Guide
+# Reprint - Lady Lines Case Files -Plus Episode- Event Guide
 {: .no_toc }
 
 ![Banner](https://news.fate-go.jp/wp-content/uploads/2022/re_casefile_elmelloi_dynzp/top_banner.png)
@@ -56,9 +54,18 @@ nav_order: 6
 ![CE](https://media.discordapp.net/attachments/802752542538203147/929747110461575168/unknown.png)
 
 # Recommended Support List and Free Quest Info
-- [Details for the original run c/o niconikon01](https://twitter.com/niconikon01/status/1122287174039113728)
-- Expect new 90+ nodes to pop up
-![map](https://pbs.twimg.com/media/D5MpKw-VUAA6Ej2?format=jpg&name=4096x4096)
+- [c/o @niconikon01](https://twitter.com/niconikon01/status/1481189205015347203/)
+
+
+## Step by Step Guide (in Japanese)
+![stepbystep](https://pbs.twimg.com/media/FI47nJDakAAktY5?format=jpg&name=4096x4096)
+
+## Support List
+![support](https://pbs.twimg.com/media/FI47qJHaIAE4N6U?format=jpg&name=large)
+
+## Free Quest Map
+- [Enemy/Trait Finder c/o appmedia](https://appmedia.jp/fategrandorder/3342103)
+![map](https://pbs.twimg.com/media/FI47l3taIAM-wZ6?format=jpg&name=4096x4096)
 
 # Resources / Credits / Notes
 
@@ -69,6 +76,7 @@ nav_order: 6
 - Guides from the original run:
     - u/EnergizingLemon's [reddit guide](https://www.reddit.com/r/FGOGuide/comments/bi1jdo/quick_lord_el_melloi_case_files_collab_event/){:target="_blank"}
     - u/pluriebus's [reddit guide](https://www.reddit.com/r/FGOGuide/comments/bkjlte/quicker_case_files_event_guide/){:target="_blank"}
+    - [Gamepress Guide](https://gamepress.gg/grandorder/event-guide/lord-el-melloi-iis-case-files-x-fategrand-order-collaboration-event-lady-reiness-case)
 - Content posted here are mostly gathered from the event page (via machine TL) and the resources above, if there are any errors you can contact me through the [issues](https://github.com/r-grandorder/fgo-guides/issues){:target="_blank"} page in this github repo or via Discord (Enshael#0001).
 
 
