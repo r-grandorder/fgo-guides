@@ -63,7 +63,7 @@ nav_order: 7
 - Progressing the ladder will give you two types of Chocolate, &lt;Lock-on Chocolate&gt; and &lt;Surprise Chocolate&gt;
 - &lt;Lock-On Chocolate&gt; will allow you to choose the servant's valentine scene to unlock
 - &lt;Surprise Chocolate&gt; will randomly get you a scene.
-- The's a separate section for Getting Chocolates and Giving Chocolates
+- There's a separate section for Getting Chocolates and Giving Chocolates
     - Note that some servants can both give and get chocolates from you.
 ![Choco](https://news.fate-go.jp/wp-content/uploads/2022/valentine2022_full_mxzlw/info_image_01.png)
 
