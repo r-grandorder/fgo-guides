@@ -25,7 +25,7 @@ nav_order: 7
 # Event Details
 - Duration: February 9, 2022 18:00 (Wednesday) to February 23, 12:59 (Wednesday) JST
 - Participation Requirements: Fuyuki Clear
-- Ladder-based event. Do Free Quests to earn <Bouncer Points&gt; and progress the ladder.
+- Ladder-based event. Do Free Quests to earn &lt;Bouncer Points&gt; and progress the ladder.
 - New unit ★5 (SSR) Alter-ego Manannán Mac Lir (Bazette)
 
 # Main Quest Schedule
@@ -39,6 +39,14 @@ nav_order: 7
 | Main Quest Section 5<br/>Free Quest | February 13, 2022 (Sun) 18:00 |
 | Main Quest Section 6<br/>Free Quest | February 14, 2022 (Monday) 18:00 |
 | Main Quest Section 7<br/>Epilogue<br/>Free Quest | February 15, 2022 (Tuesday) 18:00 |
+
+# Tea Break Quests
+- [https://appmedia.jp/fategrandorder/75123279](https://appmedia.jp/fategrandorder/75123279)
+
+! Important Note !
+{: .label .label-red }
+
+- These quests give out a lot of &lt;Bouncer Points&gt; and &lt;Buddy Points&gt;, be sure to do these when you already have multiple CEs that increase the &lt;Bouncer Points&gt;
 
 # Event Bonuses
 - These servants doesn't increase the &lt;Bouncer Points&gt; drops
@@ -58,6 +66,13 @@ nav_order: 7
 - The positioning of the Unit affects the amount of &lt;Buddy Points&gt; they get.
 ![Buddy Points](https://news.fate-go.jp/wp-content/uploads/2022/valentine2022_full_mxzlw/info_image_05.png)
 - Getting the &lt;Buddy Points&gt; to a certain value will increase the Attack and Bond bonus of your servants. Additional event-only skills are also available to be unlocked (no details on what these are as of the moment).
+
+! Important Note !
+{: .label .label-red }
+
+- Support servants eat up the slot and the bonuses doesn't adjust. For example, if you have your friend support on the 1st (left most) slot, you're wasting the Best slot for buddy points.
+    - It is recommended to put the supports on the 3rd slot or even better, the 6th (right most) slot and just plug them in if you're aiming to do 3t parties.
+
 
 # Chocolates
 - Progressing the ladder will give you two types of Chocolate, &lt;Lock-on Chocolate&gt; and &lt;Surprise Chocolate&gt;
@@ -85,11 +100,15 @@ nav_order: 7
 ![Teapot](https://news.fate-go.jp/wp-content/uploads/2022/valentine2022_full_mxzlw/info_item_01.png)
 
 # Recommended Support List and Free Quest Info
+[https://twitter.com/niconikon01/status/1491350362703687688](https://twitter.com/niconikon01/status/1491350362703687688)
 
 ## Support List
 
+![Support](https://pbs.twimg.com/media/FLJWwKfaQAIjMPp?format=jpg&name=large)
+
 ## Free Quest Map
 
+![FQ](https://pbs.twimg.com/media/FLJWtCYacAAC1jw?format=jpg&name=4096x4096)
 
 # Resources / Credits / Notes
 
