@@ -64,14 +64,18 @@ nav_order: 7
 # Buddy Points
 - For every quest you do, you earn &lt;Buddy Points&gt; per servant, you can think of it like it's Bond Points.
 - The positioning of the Unit affects the amount of &lt;Buddy Points&gt; they get.
-![Buddy Points](https://news.fate-go.jp/wp-content/uploads/2022/valentine2022_full_mxzlw/info_image_05.png)
-- Getting the &lt;Buddy Points&gt; to a certain value will increase the Attack and Bond bonus of your servants. Additional event-only skills are also available to be unlocked (no details on what these are as of the moment).
-
+  
 ! Important Note !
 {: .label .label-red }
 
 - Support servants eat up the slot and the bonuses doesn't adjust. For example, if you have your friend support on the 1st (left most) slot, you're wasting the Best slot for buddy points.
-    - It is recommended to put the supports on the 3rd slot or even better, the 6th (right most) slot and just plug them in if you're aiming to do 3t parties.
+  - It is recommended to put the supports on the 3rd slot or even better, the 6th (right most) slot and just plug them in if you're aiming to do 3t parties.
+![Buddy Points](https://news.fate-go.jp/wp-content/uploads/2022/valentine2022_full_mxzlw/info_image_05.png)
+- Getting the &lt;Buddy Points&gt; to a certain value will increase the Attack and Bond bonus of your servants.
+
+![BP Effects](https://cdn.discordapp.com/attachments/802752542538203147/940920334520053800/unknown.png)
+
+
 
 
 # Chocolates
