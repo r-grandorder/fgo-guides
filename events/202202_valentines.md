@@ -82,6 +82,7 @@ nav_order: 7
 - Progressing the ladder will give you two types of Chocolate, &lt;Lock-on Chocolate&gt; and &lt;Surprise Chocolate&gt;
 - &lt;Lock-On Chocolate&gt; will allow you to choose the servant's valentine scene to unlock
 - &lt;Surprise Chocolate&gt; will randomly get you a scene.
+- Any left over chocolates can be traded to QP after the event ends.
 - There's a separate section for Getting Chocolates and Giving Chocolates
     - Note that some servants can both give and get chocolates from you.
 ![Choco](https://news.fate-go.jp/wp-content/uploads/2022/valentine2022_full_mxzlw/info_image_01.png)
@@ -107,15 +108,16 @@ nav_order: 7
 ![Teapot](https://news.fate-go.jp/wp-content/uploads/2022/valentine2022_full_mxzlw/info_item_01.png)
 
 # Recommended Support List and Free Quest Info
-[https://twitter.com/niconikon01/status/1491350362703687688](https://twitter.com/niconikon01/status/1491350362703687688)
+[https://twitter.com/niconikon01/status/1491701528864129024](https://twitter.com/niconikon01/status/1491701528864129024)
+
 
 ## Support List
 
-![Support](https://pbs.twimg.com/media/FLJWwKfaQAIjMPp?format=jpg&name=large)
+![Support](https://pbs.twimg.com/media/FLOWbIraMAUUD9Q?format=jpg&name=large)
 
 ## Free Quest Map
 
-![FQ](https://pbs.twimg.com/media/FLJWtCYacAAC1jw?format=jpg&name=4096x4096)
+![FQ](https://pbs.twimg.com/media/FLOWYY3akAAneEu?format=jpg&name=4096x4096)
 
 # Resources / Credits / Notes
 
