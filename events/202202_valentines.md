@@ -119,16 +119,15 @@ nav_order: 7
 ![Teapot](https://news.fate-go.jp/wp-content/uploads/2022/valentine2022_full_mxzlw/info_item_01.png)
 
 # Recommended Support List and Free Quest Info
-[https://twitter.com/niconikon01/status/1491701528864129024](https://twitter.com/niconikon01/status/1491701528864129024)
-
+[https://twitter.com/niconikon01/status/1492063839898451968](https://twitter.com/niconikon01/status/1492063839898451968)
 
 ## Support List
 
-![Support](https://pbs.twimg.com/media/FLOWbIraMAUUD9Q?format=jpg&name=large)
+![Support](https://pbs.twimg.com/media/FLTgBrwacAM89H8?format=jpg&name=large)
 
 ## Free Quest Map
 
-![FQ](https://pbs.twimg.com/media/FLOWYY3akAAneEu?format=jpg&name=4096x4096)
+![FQ](https://pbs.twimg.com/media/FLTf_FoaUAUwWND?format=jpg&name=4096x4096)
 
 # Resources / Credits / Notes
 
