@@ -125,6 +125,7 @@ nav_order: 7
     - Rate up details: [https://news.fate-go.jp/2022/valentine2022_pu/](https://news.fate-go.jp/2022/valentine2022_pu/){:target="_blank"}
 - [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Valentine_2022){:target="_blank"}
 - Appmedia (Japanese; Fastest to Update): [https://appmedia.jp/fategrandorder/27484443](https://appmedia.jp/fategrandorder/27484443){:target="_blank"}
+- [Chocolate scene translations](https://www.reddit.com/r/grandorder/comments/sovddh/valentines_2022_media_and_translate_status){:target="_blank"} compiled by u/BlameLib
 - Content posted here are mostly gathered from the event page (via machine TL) and the resources above, if there are any errors you can contact me through the [issues](https://github.com/r-grandorder/fgo-guides/issues){:target="_blank"} page in this github repo or via Discord (Enshael#0001).
 
 
