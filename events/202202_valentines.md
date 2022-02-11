@@ -98,7 +98,7 @@ nav_order: 7
     - Note that some servants can both give and get chocolates from you.
 ![Choco](https://news.fate-go.jp/wp-content/uploads/2022/valentine2022_full_mxzlw/info_image_01.png)
 
-- Servants with "Bad End" scenarios: Kingprotea, Astarte, Summer Kiara, Oberon
+- Servants with "Bad End" scenarios: Kingprotea, Astarte, Summer Kiara, Oberon, Koyanskaya of Light (her scenario needs you to encounter the "bad end" route to get the chocolate)
     - Choosing the wrong choices will not give you the chocolate CE, but it also won't consume the <Lock-on Chocolate> or <Surprise Chocolate> you have used. You can retry multiple times until you get the CE.
 
 ! Important Note !
