@@ -53,13 +53,27 @@ nav_order: 7
 
 ![Bonuses](https://cdn.discordapp.com/attachments/802752542538203147/940185814208495646/unknown.png)
 
-# Event CEs
-- Equip the shop CE and Valentine chocolate CEs to maximize your &lt;Bouncer Points&gt;
+## Event CEs
+- Equip the shop CE "Good Job!" and Valentine chocolate CEs to maximize your &lt;Bouncer Points&gt;
+- The shop CE "Good Job!" has a 5th copy in the points ladder at 1.8M
 
 ![Shop CE](https://news.fate-go.jp/wp-content/uploads/2022/valentine2022_full_mxzlw/info_howto_02.png)
 
 - Equip the Gacha CEs to increase the currency Drops
 ![Gacha CE](https://news.fate-go.jp/wp-content/uploads/2022/valentine2022_full_mxzlw/info_howto_04.png)
+  
+## Effects and Bonuses
+- ★5 (SSR) Shop CE - [Good Job!](https://fategrandorder.fandom.com/wiki/Good_Job!)
+    - &lt;Bouncer Points&gt; increased by 30% (60%), Arts 8% (10%), Demonic pmod 15% (20%), Starting NP 30% (50%)
+- ★5 (SSR) Gacha CE - [Valentine Witches](https://fategrandorder.fandom.com/wiki/Valentine_Witches)
+    - Spicy Chocolatl (Gold Currency) +1 (+2), npmod 20% (25%), npgen 5% (10%)
+- ★4 (SSR) Gacha CE - [Melty Love](https://fategrandorder.fandom.com/wiki/Melty_Love)
+    - Bitter Powder (Silver Currency) +1 (+2), Reduce Damage by 300, npmod 5% (10%), npgen 5% (10%)
+- ★3 (SSR) FP/Gacha CE - [Hot Chocolatl](https://fategrandorder.fandom.com/wiki/Hot_Chocolatl)
+    - Cacao Chip (Bronze Currency) +1 (+2), Buster 3% (5%), Healing Received 5% (10%)
+- ★5 Command Code - [Flower of the Underworld](https://fategrandorder.fandom.com/wiki/Flower_of_the_Underworld)
+- ★4 Command Code - [Cursed Spear that Reverses Causality](https://fategrandorder.fandom.com/wiki/Cursed_Spear_that_Reverses_Causality)
+- ★3 Command Code - [Buddy Ring (GOLD)](https://fategrandorder.fandom.com/wiki/Buddy_Ring_(GOLD))
 
 # Buddy Points
 - For every quest you do, you earn &lt;Buddy Points&gt; per servant, you can think of it like it's Bond Points.
@@ -74,9 +88,6 @@ nav_order: 7
 - Getting the &lt;Buddy Points&gt; to a certain value will increase the Attack and Bond bonus of your servants.
 
 ![BP Effects](https://cdn.discordapp.com/attachments/802752542538203147/940920334520053800/unknown.png)
-
-
-
 
 # Chocolates
 - Progressing the ladder will give you two types of Chocolate, &lt;Lock-on Chocolate&gt; and &lt;Surprise Chocolate&gt;
