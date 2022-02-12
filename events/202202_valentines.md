@@ -114,20 +114,28 @@ nav_order: 7
 - "★5 (SSR) Oberon"'s Valentine Scene is story locked, and requires clearing LB6 - Avalon Le Fae
 
 # Hoshimi Teapots
-- The teapots we got recently are due to expire at the end of the month. It might be wise to use the teapots during this event.
+- The teapots we got recently are due to expire at the end of the month (February 28, 12:59 JST). It might be wise to use the teapots during this event.
 
 ![Teapot](https://news.fate-go.jp/wp-content/uploads/2022/valentine2022_full_mxzlw/info_item_01.png)
 
 # Recommended Support List and Free Quest Info
-[https://twitter.com/niconikon01/status/1492063839898451968](https://twitter.com/niconikon01/status/1492063839898451968)
+[https://twitter.com/niconikon01/status/1492456599524605956](https://twitter.com/niconikon01/status/1492456599524605956)
+
+
+https://twitter.com/niconikon01/status/1492456599524605956
+
+https://pbs.twimg.com/media/FLJWulEaMAEYway?format=jpg&name=4096x4096
+https://pbs.twimg.com/media/FLZFImaacAAYD9_?format=jpg&name=large
+https://pbs.twimg.com/media/FLZFFm6aQAIS2QA?format=jpg&name=4096x4096
+
 
 ## Support List
 
-![Support](https://pbs.twimg.com/media/FLTgBrwacAM89H8?format=jpg&name=large)
+![Support](https://pbs.twimg.com/media/FLZFImaacAAYD9_?format=jpg&name=large)
 
 ## Free Quest Map
 
-![FQ](https://pbs.twimg.com/media/FLTf_FoaUAUwWND?format=jpg&name=4096x4096)
+![FQ](https://pbs.twimg.com/media/FLZFFm6aQAIS2QA?format=jpg&name=4096x4096)
 
 # Resources / Credits / Notes
 
