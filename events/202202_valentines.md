@@ -48,6 +48,12 @@ nav_order: 7
 
 - These quests give out a lot of &lt;Bouncer Points&gt; and &lt;Buddy Points&gt;, be sure to do these when you already have multiple CEs that increase the &lt;Bouncer Points&gt;
 
+! Important Note !
+{: .label .label-red }
+
+- These quests (the latter ones) also give a huge amount of Bond Points, you can also opt to wait for your servants to be EX rank before doing the Tea Break Quests and make sure to activate the Teapot!
+
+
 # Event Bonuses
 - These servants doesn't increase the &lt;Bouncer Points&gt; drops
 
@@ -114,7 +120,13 @@ nav_order: 7
 - "★5 (SSR) Oberon"'s Valentine Scene is story locked, and requires clearing LB6 - Avalon Le Fae
 
 # Hoshimi Teapots
-- The teapots we got recently are due to expire at the end of the month (February 28, 12:59 JST). It might be wise to use the teapots during this event.
+- The Teapots we got recently are due to expire at the end of the month (February 28, 12:59 JST). It might be wise to use the teapots during this event.
+- The Tea Break Quests (5AP that rewards Teapots) also give significant amount of Bond Points. You can use your teapots in there.
+
+! Important Note !
+{: .label .label-red }
+
+- Make sure you have your servants at EX rank (See &lt;Buddy Points&gt; Section) to maximize the bond you get!
 
 ![Teapot](https://news.fate-go.jp/wp-content/uploads/2022/valentine2022_full_mxzlw/info_item_01.png)
 
@@ -123,11 +135,11 @@ nav_order: 7
 
 ## Support List
 
-![Support](https://pbs.twimg.com/media/FLoGzHxaAAAsITi?format=jpg&name=large)
+![Support](https://pbs.twimg.com/media/FLoG1vSakAUNbFb?format=jpg&name=large)
 
 ## Free Quest Map
 
-![FQ](https://pbs.twimg.com/media/FLoG1vSakAUNbFb?format=jpg&name=4096x4096)
+![FQ](https://pbs.twimg.com/media/FLoGzHxaAAAsITi?format=jpg&name=4096x4096)
 
 # Resources / Credits / Notes
 
