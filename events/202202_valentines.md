@@ -130,6 +130,18 @@ nav_order: 7
 
 ![Teapot](https://news.fate-go.jp/wp-content/uploads/2022/valentine2022_full_mxzlw/info_item_01.png)
 
+# Challenge Quest
+[Appmedia](https://appmedia.jp/fategrandorder/75155613){: .btn }{:target="_blank"}
+[Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Valentine_2022/Challenge_Quest){: .btn }{:target="_blank"}
+
+Alterego - Bazett - 323k, 483k
+Lancer - Cu - 322k, 406k, 508k
+
+- Cu has a permanent taunt skill, bring AoE units if you want to target both of them
+- Cu also has an unremovable guts (25k) on the final bar
+- Bring units that has special damage against Divine (both of them are Divine)
+- Raise your units to EX rank, the +100% damage mod helps
+
 # Recommended Support List and Free Quest Info
 [https://twitter.com/niconikon01/status/1493514124810395651](https://twitter.com/niconikon01/status/1493514124810395651) - This is the final update for the FQs
 
@@ -145,6 +157,7 @@ nav_order: 7
 
 - Official News Page: [https://news.fate-go.jp/2022/valentine2022/](https://news.fate-go.jp/2022/valentine2022/){:target="_blank"}
     - Rate up details: [https://news.fate-go.jp/2022/valentine2022_pu/](https://news.fate-go.jp/2022/valentine2022_pu/){:target="_blank"}
+    - Rate up 2 (2021 rerun) details: [https://news.fate-go.jp/2022/re_valentine2021_pu/](https://news.fate-go.jp/2022/re_valentine2021_pu/){:target="_blank"}
 - [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Valentine_2022){:target="_blank"}
 - Appmedia (Japanese; Fastest to Update): [https://appmedia.jp/fategrandorder/27484443](https://appmedia.jp/fategrandorder/27484443){:target="_blank"}
 - [Chocolate scene translations](https://www.reddit.com/r/grandorder/comments/sovddh/valentines_2022_media_and_translate_status){:target="_blank"} compiled by u/BlameLib
