@@ -151,6 +151,11 @@ Lancer - Cu - 322k, 406k, 508k
 
 ## Free Quest Map
 
+! Important Note !
+{: .label .label-red }
+
+PSA: The 90+ node is scuffed, it's essentially a 90 all shop mats node but reskinned. The 90+ node drops ~13.5k base points, the 90 points only node drops ~19.5k base points.
+
 ![FQ](https://pbs.twimg.com/media/FLoGzHxaAAAsITi?format=jpg&name=4096x4096)
 
 # Resources / Credits / Notes
