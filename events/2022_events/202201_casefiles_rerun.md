@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 202201 - Reprint - Lady Lines Case Files -Plus Episode-
-parent: Events
-nav_order: 6
+parent: 2022 Events
+grand_parent: Events
+nav_order: 1
 ---
 
 # Reprint - Lady Lines Case Files -Plus Episode- Event Guide

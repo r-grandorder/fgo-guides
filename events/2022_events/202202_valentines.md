@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 202202 - Valentine 2022
-parent: Events
-nav_order: 7
+parent: 2022 Events
+grand_parent: Events
+nav_order: 2
 ---
 
 # Manannán Souvenir Valentine

@@ -1,8 +1,9 @@
 ---
 layout: default
 title: GUDAGUDA Yamatai-koku 2021 Rerun
-parent: Events
-nav_order: 2
+parent: 2021 Events
+grand_parent: Events
+nav_order: 1
 ---
 
 # "GUDAGUDA Yamatai-koku 2021 Rerun" Event Guide

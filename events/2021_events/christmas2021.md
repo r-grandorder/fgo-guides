@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Christmas 2021 - Making a Christmas Party!
-parent: Events
-nav_order: 4
+parent: 2021 Events
+grand_parent: Events
+nav_order: 3
 ---
 
 # Christmas 2021: Making a Christmas Party!

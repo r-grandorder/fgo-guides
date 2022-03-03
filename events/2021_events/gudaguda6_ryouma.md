@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Shouwa Kishin Plan GudaGuda Ryouma's Close Call! ~The Mystery of Nobbu Head's Disappearance!~
-parent: Events
-nav_order: 3
+parent: 2021 Events
+grand_parent: Events
+nav_order: 2
 ---
 
 # Shouwa Kishin Plan GudaGuda Ryouma's Close Call!

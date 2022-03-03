@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Non-Primate Biosphere - Tunguska Sanctuary
-parent: Events
-nav_order: 5
+parent: 2021 Events
+grand_parent: Events
+nav_order: 4
 ---
 
 # Non-Primate Biosphere: Tunguska Sanctuary
