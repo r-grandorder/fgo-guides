@@ -2,7 +2,7 @@
 layout: default
 title: Fate/Requiem Board Game Apocalypse
 parent: Events
-nav_order: 1
+nav_order: 3
 ---
 
 # Fate/Requiem Board Game Apocalypse
