@@ -6,3 +6,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/fgo-guides" # the subpath of your site, e.g. /blog
 url: "https://r-grandorder.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: r-grandorder
+aux_links:
+  "For any issues, report on Github":
+    - "https://github.com/r-grandorder/fgo-guides/issues"
