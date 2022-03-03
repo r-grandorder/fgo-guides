@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 202201 - Reprint - Lady Lines Case Files -Plus Episode-
+title: Reprint - Lady Lines Case Files -Plus Episode-
 parent: 2022 Events
 grand_parent: Events
 nav_order: 1
@@ -78,8 +78,6 @@ nav_order: 1
     - u/EnergizingLemon's [reddit guide](https://www.reddit.com/r/FGOGuide/comments/bi1jdo/quick_lord_el_melloi_case_files_collab_event/){:target="_blank"}
     - u/pluriebus's [reddit guide](https://www.reddit.com/r/FGOGuide/comments/bkjlte/quicker_case_files_event_guide/){:target="_blank"}
     - [Gamepress Guide](https://gamepress.gg/grandorder/event-guide/lord-el-melloi-iis-case-files-x-fategrand-order-collaboration-event-lady-reiness-case)
-- Content posted here are mostly gathered from the event page (via machine TL) and the resources above, if there are any errors you can contact me through the [issues](https://github.com/r-grandorder/fgo-guides/issues){:target="_blank"} page in this github repo or via Discord (Enshael#0001).
-
 
 <script>
 setInterval(function () {  

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 202202 - Valentine 2022
+title: Manannán Souvenir Valentine
 parent: 2022 Events
 grand_parent: Events
 nav_order: 2
@@ -167,37 +167,3 @@ PSA: The 90+ node is scuffed, it's essentially a 90 all shop mats node but reski
 - [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Valentine_2022){:target="_blank"}
 - Appmedia (Japanese; Fastest to Update): [https://appmedia.jp/fategrandorder/27484443](https://appmedia.jp/fategrandorder/27484443){:target="_blank"}
 - [Chocolate scene translations](https://www.reddit.com/r/grandorder/comments/sovddh/valentines_2022_media_and_translate_status){:target="_blank"} compiled by u/BlameLib
-- Content posted here are mostly gathered from the event page (via machine TL) and the resources above, if there are any errors you can contact me through the [issues](https://github.com/r-grandorder/fgo-guides/issues){:target="_blank"} page in this github repo or via Discord (Enshael#0001).
-
-
-<script>
-setInterval(function () {  
-  var times = [1642496400];
-  
-  var now = new Date().getTime() / 1000;
-  for(var i=0; i<times.length;i++){
-    var futureEvent = times[i] > now;
-    var diff = times[i]-now;
-    if(!futureEvent) {
-      diff = -diff;
-    }
-    /*https://stackoverflow.com/a/52387803*/
-    var d = Math.floor(diff / (60*60*24));
-    var h = Math.floor((diff % (60*60*24)) / (60*60));
-    var m = Math.floor((diff % (60*60)) / 60);
-    var s = Math.floor(diff % 60);
-    var dDisplay = d > 0 ? d + (d == 1 ? " day, " : " days, ") : "";
-    var hDisplay = h > 0 ? h + (h == 1 ? " hour, " : " hours, ") : "";
-    var mDisplay = m > 0 ? m + (m == 1 ? " minute" : " minutes") : "";
-
-    var disp = dDisplay + hDisplay + mDisplay;
-
-    if(futureEvent) {
-      disp = "in " + disp + ".";
-    } else {
-      disp = disp + " ago.";
-    }
-    document.querySelector("#timer"+(i+1)).textContent = disp;
-  }
-}, 1000);
-</script>
