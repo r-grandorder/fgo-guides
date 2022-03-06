@@ -108,8 +108,11 @@ nav_order: 1
 
 # Welfare Servant (Erice)
 
-* No details yet on how to unlock her, she's probably behind the next time gate. Will update this post as we get more details.
 * Unlockable after finishing the main quests.
+
+! Important Note !
+{: .label .label-red }
+
 * You will be able to NP5 erice once you complete all the tokens and some might be fine with that, but if you want to do the 16th bonus quest (10m QP, 5* exp), do the CQ and get the additional lore, you will have to clear the whole board.
 
 
