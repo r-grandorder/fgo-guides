@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2022 Events
-nav_order: 2
+nav_order: 3
 has_children: true
 permalink: "events/2022_events"
 parent: Events
