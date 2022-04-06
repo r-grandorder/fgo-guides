@@ -26,13 +26,13 @@ nav_order: 5
 - Duration: April 6, 2022 18:00 (Wednesday) to April 27, 12:59 (Wednesday) JST
 - Participation Requirements: Lostbelt 2 - Clear
     - Note that the event has LB6 spoilers even if the requirement is just LB2
-- Construction-based Quest
+- Construction-based Event (like Summer 1 or Enmatei)
 - Prioritize farming shop currency to buy the Event CEs at the start
 - An unknown welfare servant is also available, Servant Coins are available from the shop.
 
 # Step by Step Guide
 1. Do Main Quest
-2. Farm `Kons` and Shop Currency by doing Free Quests
+2. Farm `Cons` and Shop Currency by doing Free Quests
 3. Upgrade your base by doing the Construction Quests
 4. Do unlocked Quests
 5. Repeat til the next day's timegate is unlocked.
@@ -60,7 +60,7 @@ nav_order: 5
 - All servants has bonus `Kon` drops according to their classes.
 - Featured units has attack bonus and bond bonus
 
-![Bonus](https://media.discordapp.net/attachments/802752542538203147/960946925870407770/unknown.png)
+![Bonus](https://pbs.twimg.com/media/FPpz1ycaUAAQYQF?format=jpg&name=4096x4096)
 
 ## Event CEs
 - Equip the Event CE (Summer Melt) to increase the `Kon` drops
@@ -72,15 +72,15 @@ nav_order: 5
 ##
 
 # Recommended Support List and Free Quest Info
-Credits to [@niconikon01](https://twitter.com/niconikon01/status/){:target="_blank"}
+Credits to [@niconikon01](https://twitter.com/niconikon01/status/1511648674769928192){:target="_blank"}
 
 ## Support List
 
-![Support]()
+![Support](https://pbs.twimg.com/media/FPpz4KBagAY3hY8?format=jpg&name=large)
 
 ## Free Quest Map
 
-![FQ]()
+![FQ](https://pbs.twimg.com/media/FPqG4HZagAA9KJY?format=jpg&name=large)
 
 # Resources / Credits / Notes
 
