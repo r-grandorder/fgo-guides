@@ -69,18 +69,23 @@ nav_order: 5
 ![CEs](https://news.fate-go.jp/wp-content/uploads/2022/event_dpodc_full_zuwxk/info_howto_02.png)
 
 # Frequently Asked Questions
-##
+## Who/where's the welfare?
+- We don't know who the welfare is nor do we know when it'll be released. Just wait.
+
+## Which production/restoration quest do I do?
+- Do any of them. The only thing that's different is what visually gets displayed and how much they cost.
 
 # Recommended Support List and Free Quest Info
-Credits to [@niconikon01](https://twitter.com/niconikon01/status/1511648674769928192){:target="_blank"}
+Credits to [@niconikon01](https://twitter.com/niconikon01/status/1511999018062454784){:target="_blank"}
+<https://twitter.com/niconikon01/status/1511999018062454784>
 
 ## Support List
 
-![Support](https://pbs.twimg.com/media/FPpz4KBagAY3hY8?format=jpg&name=large)
+![Support](https://pbs.twimg.com/media/FPuywzsaMAAxBSf?format=jpg&name=large)
 
 ## Free Quest Map
 
-![FQ](https://pbs.twimg.com/media/FPqG4HZagAA9KJY?format=jpg&name=large)
+![FQ](https://pbs.twimg.com/media/FPuysqiagAMpuWL?format=jpg&name=large)
 
 # Resources / Credits / Notes
 
