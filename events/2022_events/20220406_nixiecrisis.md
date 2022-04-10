@@ -76,15 +76,15 @@ nav_order: 5
 - Do any of them. The only thing that's different is what visually gets displayed and how much they cost.
 
 # Recommended Support List and Free Quest Info
-Credits to [@niconikon01](https://twitter.com/niconikon01/status/1512721493356351493){:target="_blank"}
+Credits to [@niconikon01](https://twitter.com/niconikon01/status/1513083479680258050){:target="_blank"}
 
 ## Support List
 
-![Support](https://pbs.twimg.com/media/FP5EJOEaUAUIqCw?format=jpg&name=large)
+![Support](https://pbs.twimg.com/media/FP-NXQ2aMAUErzp?format=jpg&name=large)
 
 ## Free Quest Map
 
-![FQ](https://pbs.twimg.com/media/FP5EFmSacAIhiOP?format=jpg&name=large)
+![FQ](https://pbs.twimg.com/media/FP-NTYeaQAEmZ2P?format=jpg&name=large)
 
 # Resources / Credits / Notes
 
