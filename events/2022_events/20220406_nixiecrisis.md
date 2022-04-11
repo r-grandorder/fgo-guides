@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Nixie Crisis - Floating Island of Innocent People
+title: Sea Monster Crisis - Floating Island of Innocent People
 parent: 2022 Events
 grand_parent: Events
 nav_order: 5
 ---
 
-# Nixie Crisis - Floating Island of Innocent People
+# Sea Monster Crisis - Floating Island of Innocent People
 {: .no_toc }
 
 
