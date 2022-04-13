@@ -53,8 +53,32 @@ nav_order: 5
 * There are new Free Quests every day so you don't need to go hard on using apples on the first few days.
 
 # Welfare Servant
-- An unknown welfare servant is available from the event, do the Main Quest to make them permanent.
 - Servant coins are available from the shop
+- Complete the main story to obtain the unit
+- Extra Quests after the epilogue to get NP copies
+
+## Alter ego Welfare (太歳星君 Taisui Xingjun)
+[Appmedia](https://appmedia.jp/fategrandorder/75404155){:target="_blank"}{: .btn }
+
+### Skill 1 - 3 turns
+- Party Arts up (10-20%)
+- Party NPgen up (10-20%)
+- Stars per turn (5-10)
+
+### Skill 2 - 3 turns, 1 time
+- Guts on one party member
+- Apply Debuff Immunity on one party member
+- Apply Buff Removal Resistance on one party member
+
+### Skill 3
+- Apply Skill Seal on all enemies - 1 turn
+- Apply NPdmg Up on self (20%-30%) - 3 turns
+- NP Charge on self (20%-30%)
+
+### NP
+- AoE Arts, OC: SEdmg against Human attribute enemies
+- Applies Curse for 5 turns (2000 per tick)
+- Applies a debuff that activates on death (Def Down 20%, 1000 per tick Curse, Increased effectivity of Curse debuff by 100%) - 3 turns
 
 # Event Bonuses
 - All servants has bonus `Kon` drops according to their classes.
@@ -76,20 +100,21 @@ nav_order: 5
 - Do any of them. The only thing that's different is what visually gets displayed and how much they cost.
 
 # Recommended Support List and Free Quest Info
-Credits to [@niconikon01](https://twitter.com/niconikon01/status/1513446525716033539){:target="_blank"}
+Credits to [@niconikon01](https://twitter.com/niconikon01/status/1514186312030781441){:target="_blank"}
 
 ## Support List
 
-![Support](https://pbs.twimg.com/media/FQDXf6UaUAMCiKZ?format=jpg&name=large)
+![Support](https://pbs.twimg.com/media/FQN4P5AaQAgYZ4q?format=jpg&name=large)
 
 ## Free Quest Map
 
-![FQ](https://pbs.twimg.com/media/FQDXbDgaMAUQZYx?format=jpg&name=4096x4096)
+![FQ](https://pbs.twimg.com/media/FQN4ME0aQAIe4Qm?format=jpg&name=4096x4096)
 
 # Resources / Credits / Notes
 
 - Official News Page: [https://news.fate-go.jp/2022/event_dpodc/](https://news.fate-go.jp/2022/event_dpodc/){:target="_blank"}
     - Rate up details: [https://news.fate-go.jp/2022/event_dpodc_pu/](https://news.fate-go.jp/2022/event_dpodc_pu/){:target="_blank"}
+    - Banner 2: [https://news.fate-go.jp/2022/event_dpodc_pu2/](https://news.fate-go.jp/2022/event_dpodc_pu2/){:target="_blank"}
 - [u/Smoof101's r/FGOGuide post](https://www.reddit.com/r/FGOGuide/comments/twc5bh/sea_monster_crisis_floating_island_of_the/){:target="_blank"}
 - [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Sea_Monster_Crisis){:target="_blank"}
 - Appmedia (Japanese; Fastest to Update): [https://appmedia.jp/fategrandorder/75318337](https://appmedia.jp/fategrandorder/75318337){:target="_blank"}
