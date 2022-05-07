@@ -23,7 +23,8 @@ nav_order: 2
 - Players got retroactive coins (sent to the Inbox) for existing copies based on the Bond Level (all Rarities) and the Number of copies you obtained (4* and 5* only, Welfares not included) during the Anniversary. 
 - Any future coins from Bond Up/NP copy are automatically added to your Coins Inventory
 - New welfare units got coins from their Event's shops. Old welfare units will eventually get their coins
-    - Currently (May 2022) only the following old welfares got coins: Elizabeth Variants (HW Trilogy), Bunyan (Learning with Manga Collab)
+    - Currently (May 2022) only the following old welfares got coins: Elizabeth Variants (HW 2021), Bunyan (Learning with Manga Collab)
+    - Those that had reruns after Anni6 also got coins in their respective events: Gray, Nobukatsu
     - Old welfares obtainable from Main Interludes/RP shop don't give out coins
 
 
