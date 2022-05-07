@@ -18,6 +18,15 @@ nav_order: 2
 </details>
 ---
 
+# Servant Coins
+- Servant Coins was introduced in the 6th Anniversary of the game (August 2021 for JP, ~July 2023 for NA)
+- Players got retroactive coins (sent to the Inbox) for existing copies based on the Bond Level (all Rarities) and the Number of copies you obtained (4* and 5* only, Welfares not included) during the Anniversary. 
+- Any future coins from Bond Up/NP copy are automatically added to your Coins Inventory
+- New welfare units got coins from their Event's shops. Old welfare units will eventually get their coins
+    - Currently (May 2022) only the following old welfares got coins: Elizabeth Variants (HW Trilogy), Bunyan (Learning with Manga Collab)
+    - Old welfares obtainable from Main Interludes/RP shop don't give out coins
+
+
 # Obtaining Coins
 
 - Getting copies of the servant
@@ -35,6 +44,10 @@ nav_order: 2
 | All Servants | 2* | 6 |
 | All Servants | 1* | 2 |
 | All Servants | 0* (Angra Mainyu) | 50 |
+
+Note !
+{: .label .label-blue }
+- Welfare Servants don't get coins from copies
 
 ## Bond Level
 
@@ -97,8 +110,8 @@ nav_order: 2
 </select>
 </li>
 <li>
-<label for="copies">Number of Copies</label>
-<input name="copies" id="copies" type="number" min="1" value="1"/>
+<label for="copies">Number of Copies (Select 0 for Welfares)</label>
+<input name="copies" id="copies" type="number" min="0" value="0"/>
 </li>
 </ul>
 
@@ -156,7 +169,7 @@ Result: <span id="coins-result-value">-</span> Coin(s)
 </select>
 </li>
 <li>
-<label for="rev-copies">Current Number of Copies</label>
+<label for="rev-copies">Current Number of Copies (Select 0 for Welfares)</label>
 <input name="copies" id="rev-copies" type="number" min="0" value="0"/>
 </li>
 <li>
