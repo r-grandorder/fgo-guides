@@ -157,7 +157,7 @@ Result: <span id="coins-result-value">-</span> Coin(s)
 </li>
 <li>
 <label for="rev-copies">Current Number of Copies</label>
-<input name="copies" id="rev-copies" type="number" min="1" value="1"/>
+<input name="copies" id="rev-copies" type="number" min="0" value="0"/>
 </li>
 <li>
 <label for="target-level">Target Level</label>
@@ -263,7 +263,7 @@ function reverseCalculateCoins(formId, neededId, resultId, deficitId) {
   let copiesNeededBond10 = Math.max(Math.ceil((deficit - availableCoinsFromBond10) / perCopy), 0);
   let copiesNeededBond15 = Math.max(Math.ceil((deficit - availableCoinsFromBond15) / perCopy), 0);
 
-  let copiesText = '<ul><li>Copies Needed (' + perCopy + ' Coin(s) per copy)';
+  let copiesText = '<ul><li>How many more Copies you shoud roll (' + perCopy + ' Coin(s) per copy)';
   copiesText += '<ul><li>At Same Bond Level: ' + copiesNeededNoBond + ' Copies</li>';
   copiesText += '<li>At Bond 10: ' + copiesNeededBond10 + ' Copies</li>';
   copiesText += '<li>At Bond 15: ' + copiesNeededBond15 + ' Copies</ul>';
