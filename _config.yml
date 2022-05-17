@@ -9,3 +9,6 @@ github_username: r-grandorder
 aux_links:
   "For any issues, report on Github":
     - "https://github.com/r-grandorder/fgo-guides/issues"
+
+ga_tracking: G-490C572XSX
+ga_tracking_anonymize_ip: true
