@@ -209,7 +209,7 @@ Needed: <span id="rev-coins-needed-value">-</span> Coin(s)
 <li id="rev-calc-coins-result">
 Current Coins: <span id="rev-coins-result-value">-</span> Coin(s)
 </li>
-<li id="rev-calc-coins-deficit">Deficit: - Coin(s)</li>
+<li id="rev-calc-coins-deficit">Shortage: - Coin(s)</li>
 </ul>
 
 </form>
@@ -283,7 +283,7 @@ function reverseCalculateCoins(formId, neededId, resultId, deficitId) {
   copiesText += '<li>At Bond 15: ' + copiesNeededBond15 + ' Copies</ul>';
   copiesText += '</li></ul>';
 
-  document.querySelector(deficitId).innerHTML = 'Deficit: ' + deficit + ' Coin(s)' + bondText + copiesText;
+  document.querySelector(deficitId).innerHTML = 'Shortage: ' + deficit + ' Coin(s)' + bondText + copiesText;
 }
 
 const rarityLookup = {
