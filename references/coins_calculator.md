@@ -43,7 +43,8 @@ nav_order: 2
 | Permanent | 4* | 30 |
 | Permanent | 3* | 15 |
 | All Servants | 2* | 6 |
-| All Servants | 1* | 2 |
+| Limited  | 1* | 15 |
+| Permanent / Story Locked | 1* | 2 |
 | All Servants | 0* (Angra Mainyu) | 50 |
 
 Note !
