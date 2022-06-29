@@ -10,7 +10,7 @@ nav_order: 7
 # Nanmei Yumihari Hakkenden
 {: .no_toc }
 
-![Banner](https://news.fate-go.jp/wp-content/uploads/2022/hakkenden_ywozm/top_banner.png)
+![Banner](https://news.fate-go.jp/wp-content/uploads/2022/hakkenden_full_edswx/top_banner.png)
 
 <details open markdown="block">
   <summary>
@@ -56,12 +56,16 @@ nav_order: 7
 # Frequently Asked Questions
 
 # Event Bonuses
-[https://twitter.com/niconikon01/](https://twitter.com/niconikon01/){:target="_blank"}
-![Bonuses]()
+[https://twitter.com/niconikon01/status/1542126752381927424](https://twitter.com/niconikon01/status/1542126752381927424){:target="_blank"}
+![Bonuses](https://pbs.twimg.com/media/FWa72fjacAAm7OP?format=jpg&name=4096x4096)
+
+# Recommended Support List
+[https://twitter.com/niconikon01/status/1542126752381927424](https://twitter.com/niconikon01/status/1542126752381927424){:target="_blank"}
+![Support List](https://pbs.twimg.com/media/FWa74XqaAAE0urz?format=jpg&name=large)
 
 # Free Quest Map
-[https://twitter.com/niconikon01/](https://twitter.com/niconikon01/){:target="_blank"}
-![Map]()
+[https://twitter.com/niconikon01/status/1542126752381927424](https://twitter.com/niconikon01/status/1542126752381927424){:target="_blank"}
+![Map](https://pbs.twimg.com/media/FWa704AacAA9EDb?format=jpg&name=4096x4096)
 
 # Links
 - Official News Page: [https://news.fate-go.jp/2022/hakkenden/](https://news.fate-go.jp/2022/hakkenden/){:target="_blank"}
