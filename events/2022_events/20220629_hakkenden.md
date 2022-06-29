@@ -33,8 +33,8 @@ nav_order: 7
 2. Send Doggies on an expedition
 3. Do Free Quest, farm enough currency to buy the event CE from the shop
 4. Equip event CE, do more Free Quests and wait for the next day's timegate.
-* Avoid using apples until all of the timegates has been released (July 3).
-* 
+    * Avoid using apples until all of the timegates has been released (July 3).
+
 # Main Quest Schedule
 
 | Quest | Release |
