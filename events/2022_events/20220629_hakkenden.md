@@ -49,6 +49,7 @@ nav_order: 7
 - From the 2nd tab of the shop menu, you can send dogs on expeditions
 - Some dogs will have preferred expeditions, where they will clear faster
 - Expeditions costs an ascension material and rewards QP, EXP or other ascension materials. Dog Knight Points are also rewarded per expedition.
+    - You get back the material used after the expedition (like playing fetch with a dog) 
 - You can set the app to send a notification when the expeditions are done by tapping on the off/on icon at the middle of the screen.
 
 ![Expeditions](https://news.fate-go.jp/wp-content/uploads/2022/hakkenden_full_edswx/info_image_02.png)
