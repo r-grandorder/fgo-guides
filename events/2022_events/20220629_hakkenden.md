@@ -56,17 +56,17 @@ nav_order: 7
 
 # Frequently Asked Questions
 
-# Event Bonuses
-[https://twitter.com/niconikon01/status/1542126752381927424](https://twitter.com/niconikon01/status/1542126752381927424){:target="_blank"}
-![Bonuses](https://pbs.twimg.com/media/FWa72fjacAAm7OP?format=jpg&name=4096x4096)
+# Event Bonuses and Expeditions
+[https://twitter.com/niconikon01/status/1542438558396719105](https://twitter.com/niconikon01/status/1542438558396719105){:target="_blank"}
+![Bonuses](https://pbs.twimg.com/media/FWfXlxuaIAAMvGj?format=jpg&name=4096x4096)
 
 # Recommended Support List
 [https://twitter.com/niconikon01/status/1542126752381927424](https://twitter.com/niconikon01/status/1542126752381927424){:target="_blank"}
-![Support List](https://pbs.twimg.com/media/FWa74XqaAAE0urz?format=jpg&name=large)
+![Support List](https://pbs.twimg.com/media/FWfXnDdaQAAX?format=jpg&name=large)
 
 # Free Quest Map
 [https://twitter.com/niconikon01/status/1542126752381927424](https://twitter.com/niconikon01/status/1542126752381927424){:target="_blank"}
-![Map](https://pbs.twimg.com/media/FWa704AacAA9EDb?format=jpg&name=4096x4096)
+![Map](https://pbs.twimg.com/media/FWfXkBmagAIbb9y?format=jpg&name=4096x4096)
 
 # Links
 - Official News Page: [https://news.fate-go.jp/2022/hakkenden/](https://news.fate-go.jp/2022/hakkenden/){:target="_blank"}
