@@ -44,6 +44,7 @@ nav_order: 7
 | Main Quest, Free Quest <br/> (Requires 110k, 150k, 190k, 230k, 270k Dog Knight Points) | July 1, 2022 (Friday) 18:00 |
 | Main Quest, Free Quest <br/> (Requires 310k, 350k Dog Knight Points) | July 2, 2022 (Saturday) 18:00 |
 | Main Quest, Free Quest, Epilogue <br/> (Requires 420k, 500k Dog Knight Points) | July 3, 2022 (Sunday) 18:00 |
+
 * The original list only had the requirements for the first main quest chapter released per day. Turns out, there's multiple chapters per day with different points requirements.
 
 # Expeditions
