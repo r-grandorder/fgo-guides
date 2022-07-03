@@ -68,23 +68,24 @@ nav_order: 7
 
 Story Fight details (if wikia doesn't have the latest info): [https://appmedia.jp/fategrandorder/75677053](https://appmedia.jp/fategrandorder/75677053){:target="_blank"}
 
-<https://twitter.com/niconikon01/status/1543168476428517377>
-
-https://pbs.twimg.com/media/FWpvHiKaAAE-ZGV?format=jpg&name=4096x4096
-https://pbs.twimg.com/media/FWpvJNYaUAE8Ig6?format=jpg&name=large
-https://pbs.twimg.com/media/FWpvE5UakAELlBT?format=jpg&name=4096x4096
+# Challenge Quest
+- Unlocks on 6-July
 
 # Event Bonuses and Expeditions
-[https://twitter.com/niconikon01/status/1543168476428517377](https://twitter.com/niconikon01/status/1543168476428517377){:target="_blank"}
-![Bonuses](https://pbs.twimg.com/media/FWpvHiKaAAE-ZGV?format=jpg&name=4096x4096)
+[https://twitter.com/niconikon01/status/1543537775764729856](https://twitter.com/niconikon01/status/1543537775764729856){:target="_blank"}
+
+![Bonuses](https://pbs.twimg.com/media/FWu_PbYaQAAmeIe?format=jpg&name=4096x4096)
 
 # Recommended Support List
-[https://twitter.com/niconikon01/status/1543168476428517377](https://twitter.com/niconikon01/status/1543168476428517377){:target="_blank"}
-![Support List](https://pbs.twimg.com/media/FWpvJNYaUAE8Ig6?format=jpg&name=large)
+[https://twitter.com/niconikon01/status/1543537775764729856](https://twitter.com/niconikon01/status/1543537775764729856){:target="_blank"}
+
+![Support List](https://pbs.twimg.com/media/FWu_QdUagAAm5Mx?format=jpg&name=large)
 
 # Free Quest Map
-[https://twitter.com/niconikon01/status/1543168476428517377](https://twitter.com/niconikon01/status/1543168476428517377){:target="_blank"}
-![Map](https://pbs.twimg.com/media/FWpvE5UakAELlBT?format=jpg&name=4096x4096)
+[https://twitter.com/niconikon01/status/1543537775764729856](https://twitter.com/niconikon01/status/1543537775764729856){:target="_blank"}
+
+![Map](https://pbs.twimg.com/media/FWu_M9yacAA59w0?format=jpg&name=large)
+![Map](https://pbs.twimg.com/media/FWu_KUPaIAMnfj2?format=jpg&name=4096x4096)
 
 # Links
 - Official News Page: [https://news.fate-go.jp/2022/hakkenden/](https://news.fate-go.jp/2022/hakkenden/){:target="_blank"}
