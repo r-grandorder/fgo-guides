@@ -69,7 +69,19 @@ nav_order: 7
 Story Fight details (if wikia doesn't have the latest info): [https://appmedia.jp/fategrandorder/75677053](https://appmedia.jp/fategrandorder/75677053){:target="_blank"}
 
 # Challenge Quest
+
+[Appmedia](https://appmedia.jp/fategrandorder/75730771){:target="_blank"}
+[Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Nanmei_Yumihari_Hakkenden#Challenge_Quest){:target="_blank"}
+
 - Unlocks on 6-July
+- Hokusai and Bakin, 3 HP bars each
+- Bring a sure hit CE on your DPS to avoid the evade skills that both can cast (start of battle, skills, and hoku's 2nd break bar). Or bring a DPS that can do it by themselves. (pierce invul also works on evade)
+- Bakin will charm your team if a servant of yours accumulates 7 of the Quick Resist Down debuff.
+- Hokusai can do the same but with 7 of the Arts Resist debuff.
+- You can remove the debuffs by using normal attacks.
+- Hokusai's last bar drains 50% NP charge, Bakin's last bar drains 30 Stars.
+
+Recommended DPS (from appmedia): Douman, Kiara, Taisui, Percival
 
 # Event Bonuses and Expeditions
 [https://twitter.com/niconikon01/status/1543537775764729856](https://twitter.com/niconikon01/status/1543537775764729856){:target="_blank"}
