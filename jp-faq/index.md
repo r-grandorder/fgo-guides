@@ -1,3 +1,11 @@
+---
+layout: default
+title: Discord Reference
+nav_order: 1
+has_children: true
+permalink: jp-faq
+---
+
 # jp-faq
 
 When editing, go to https://eb.nadeko.bot/ for a visual editor. The first block of text per section is what goes into the Description of the embed. You can copy it into the editor then replace the "description" in the 2nd block.
