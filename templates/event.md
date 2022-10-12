@@ -1,10 +1,10 @@
----
+-+--
 layout: default
 title: Title
 parent: 2022 Events
 grand_parent: Events
 nav_order: NN
----
+-+--
 
 # Title
 ## Subtitle
