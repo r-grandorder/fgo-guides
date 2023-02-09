@@ -5,11 +5,12 @@ parent: 2023 Events
 grand_parent: Events
 nav_order: 1
 ---
-
 # Valentine 2023 - Johanna-san and Unconfirmed Love
 {: .no_toc }
 ~Break It Down☆Love Love Heart and the Big Stone Statue~
 
+# THIS IS A PLACEHOLDER.
+Wait for the 17th for the final event details
 
 ![Banner]()
 
