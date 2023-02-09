@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manannán Souvenir Valentine
+title: Johanna-san and Unconfirmed Love
 parent: 2023 Events
 grand_parent: Events
 nav_order: 1
