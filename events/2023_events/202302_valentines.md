@@ -12,7 +12,7 @@ nav_order: 1
 # THIS IS A PLACEHOLDER.
 Wait for the 17th for the final event details
 
-![Banner]()
+![Banner](https://news.fate-go.jp/wp-content/uploads/2023/valentine2023_full_mynxl/top_banner.png)
 
 <details open markdown="block">
   <summary>
