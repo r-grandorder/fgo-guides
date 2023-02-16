@@ -52,11 +52,10 @@ Wait for the 17th for the final event details
 
 # Event CEs
 - Equip the shop CE "" and Valentine chocolate CEs to maximize your &lt;Love Heart Points&gt;
-
-![Shop CE]()
+![Shop CE](https://news.fate-go.jp/wp-content/uploads/2023/valentine2023_full_mynxl/info_image_07.png)
 
 - Equip the Gacha CEs to increase the currency Drops
-![Gacha CE](https://news.fate-go.jp/wp-content/uploads/2023/valentine2023_full_mynxl/info_image_07.png)
+![Gacha CE](https://news.fate-go.jp/wp-content/uploads/2023/valentine2023_full_mynxl/info_image_09.png)
 
 # Super Lock-On Chocolates
 
@@ -88,6 +87,11 @@ Wait for the 17th for the final event details
 ![](https://news.fate-go.jp/wp-content/uploads/2023/valentine2023_full_mynxl/info_image_03.png)
 
 - "★5 (SSR) Oberon"'s Valentine Scene is story locked, and requires clearing LB6 - Avalon Le Fae
+
+# Blessed Tea Party Quests
+- Unlock these quests as you proceed with the event's story
+- Receive a Stargazer's Teapot as a first clear reward (Expires on 10 March 2023 23:59 JST)
+![Teapot](https://news.fate-go.jp/wp-content/uploads/2023/valentine2023_full_mynxl/info_item_03.png)
 
 # Challenge Quest
 [Appmedia](){: .btn }{:target="_blank"}
