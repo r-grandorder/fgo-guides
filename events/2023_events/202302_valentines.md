@@ -9,9 +9,6 @@ nav_order: 1
 {: .no_toc }
 ~Break It Down☆Love Love Heart and the Big Stone Statue~
 
-# THIS IS A PLACEHOLDER.
-Wait for the 17th for the final event details
-
 ![Banner](https://news.fate-go.jp/wp-content/uploads/2023/valentine2023_full_mynxl/top_banner.png)
 
 <details open markdown="block">
@@ -48,14 +45,14 @@ Wait for the 17th for the final event details
 | Main Quest Section 7<br/>Free Quest | February 22, 2022 (Wednesday) 18:00 |
 
 # Event Bonuses
-![Bonuses]()
+![Bonuses](https://pbs.twimg.com/media/FpKObKbaIAEpaov?format=jpg&name=4096x4096)
 
 # Event CEs
 - Equip the shop CE "" and Valentine chocolate CEs to maximize your &lt;Love Heart Points&gt;
 ![Shop CE](https://news.fate-go.jp/wp-content/uploads/2023/valentine2023_full_mynxl/info_image_07.png)
 
 - Equip the Gacha CEs to increase the currency Drops
-![Gacha CE](https://news.fate-go.jp/wp-content/uploads/2023/valentine2023_full_mynxl/info_image_09.png)
+![Gacha CE](https://news.fate-go.jp/wp-content/uploads/2023/valentine2023_full_02_vcmpk/info_image_01.png)
 
 # Super Lock-On Chocolates
 
@@ -64,7 +61,7 @@ Wait for the 17th for the final event details
 - A feature returning from the 2021 Valentine Event
 - You can only use this on **One** Female and **One** Male Servant
   - Servants that can Receive and Give chocolates (e.g. Unknown Gender) can get either of the chocolates
-- Servants chosen with this chocolate will get 50% bond bonus and a starting battery depending on their NP level
+- Servants chosen with this chocolate will get 50% bond bonus and a (MAX) starting battery depending on their NP level
 
 ![](https://news.fate-go.jp/wp-content/uploads/2023/valentine2023_full_mynxl/info_image_04.png)
   
@@ -98,15 +95,15 @@ Wait for the 17th for the final event details
 [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Valentine_2023/Challenge_Quest){: .btn }{:target="_blank"}
 
 # Recommended Support List and Free Quest Info
-[https://twitter.com/niconikon01/](https://twitter.com/niconikon01/)
+[https://twitter.com/niconikon01/status/1626519173731086338](https://twitter.com/niconikon01/status/1626519173731086338)
 
 ## Support List
 
-![Support]()
+![Support](https://pbs.twimg.com/media/FpKOcZ1aEAAdYWo?format=jpg&name=large)
 
 ## Free Quest Map
 
-![FQ]()
+![FQ](https://pbs.twimg.com/media/FpKOaPnaIAAuxNV?format=jpg&name=4096x4096)
 
 # Resources / Credits / Notes
 
