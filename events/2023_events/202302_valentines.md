@@ -114,4 +114,4 @@ Wait for the 17th for the final event details
     - Rate up details: [https://news.fate-go.jp/2023/valentine2023_pu/](https://news.fate-go.jp/2023/valentine2023_pu/){:target="_blank"}
 - [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Valentine_2023){:target="_blank"}
 - Appmedia (Japanese; Fastest to Update): [https://appmedia.jp/fategrandorder/76453957](https://appmedia.jp/fategrandorder/76453957){:target="_blank"}
-- [Chocolate scene translations](https://www.reddit.com/r/grandorder/comments/sovddh/valentines_2022_media_and_translate_status){:target="_blank"} compiled by u/BlameLib
+- [Chocolate scene translations](https://redd.it/1140etc){:target="_blank"} compiled by u/BlameLib
