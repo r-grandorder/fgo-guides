@@ -88,6 +88,7 @@ nav_order: 1
 # Blessed Tea Party Quests
 - Unlock these quests as you proceed with the event's story
 - Receive a Stargazer's Teapot as a first clear reward (Expires on 10 March 2023 23:59 JST)
+
 ![Teapot](https://news.fate-go.jp/wp-content/uploads/2023/valentine2023_full_mynxl/info_item_03.png)
 
 # Challenge Quest
@@ -95,15 +96,15 @@ nav_order: 1
 [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Valentine_2023/Challenge_Quest){: .btn }{:target="_blank"}
 
 # Recommended Support List and Free Quest Info
-[https://twitter.com/niconikon01/status/1626519173731086338](https://twitter.com/niconikon01/status/1626519173731086338)
+[https://twitter.com/niconikon01/status/1626871808585777152](https://twitter.com/niconikon01/status/1626871808585777152)
 
 ## Support List
 
-![Support](https://pbs.twimg.com/media/FpKOcZ1aEAAdYWo?format=jpg&name=large)
+![Support](https://pbs.twimg.com/media/FpPO-bgakAM9doi?format=jpg&name=large)
 
 ## Free Quest Map
 
-![FQ](https://pbs.twimg.com/media/FpKOaPnaIAAuxNV?format=jpg&name=4096x4096)
+![FQ](https://pbs.twimg.com/media/FpPO6fyagAAWQpA?format=jpg&name=4096x4096)
 
 # Resources / Credits / Notes
 
