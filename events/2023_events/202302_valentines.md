@@ -95,21 +95,40 @@ nav_order: 1
 [Appmedia](){: .btn }{:target="_blank"}
 [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Valentine_2023/Challenge_Quest){: .btn }{:target="_blank"}
 
+<!--
+.edit #jp-guides 1076078664904618104 {
+  "embeds": [
+    {
+      "title": "Event Bonuses, Recommended Support List and FQ Drops",
+      "description": "https://twitter.com/niconikon01/status/1627235049614761984 \n\n Last updated <t:1676711640:F>",
+      "image": "https://pbs.twimg.com/media/FpPO9ckaYAE3EY0?format=jpg&name=4096x4096"
+    },
+    {
+      "image": "https://pbs.twimg.com/media/FpPO-bgakAM9doi?format=jpg&name=large"
+    },
+    {
+      "image": "https://pbs.twimg.com/media/FpPO6fyagAAWQpA?format=jpg&name=4096x4096"
+    }
+  ]
+}
+-->
+
 # Recommended Support List and Free Quest Info
-[https://twitter.com/niconikon01/status/1626871808585777152](https://twitter.com/niconikon01/status/1626871808585777152)
+[https://twitter.com/niconikon01/status/1627235049614761984](https://twitter.com/niconikon01/status/1627235049614761984)
 
 ## Support List
 
-![Support](https://pbs.twimg.com/media/FpPO-bgakAM9doi?format=jpg&name=large)
+![Support](https://pbs.twimg.com/media/FpUZlD4akAAP2h7?format=jpg&name=large)
 
 ## Free Quest Map
 
-![FQ](https://pbs.twimg.com/media/FpPO6fyagAAWQpA?format=jpg&name=4096x4096)
+![FQ](https://pbs.twimg.com/media/FpUZW_-aYAEdxzb?format=jpg&name=4096x4096)
 
 # Resources / Credits / Notes
 
 - Official News Page: [https://news.fate-go.jp/2023/valentine2023/](https://news.fate-go.jp/2023/valentine2023/){:target="_blank"}
     - Rate up details: [https://news.fate-go.jp/2023/valentine2023_pu/](https://news.fate-go.jp/2023/valentine2023_pu/){:target="_blank"}
+    - 2016-2022 Valentine Rate up details: [https://news.fate-go.jp/2023/re_valentine2016_2022_pu/](https://news.fate-go.jp/2023/re_valentine2016_2022_pu/){:target="_blank"}
 - [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Valentine_2023){:target="_blank"}
 - Appmedia (Japanese; Fastest to Update): [https://appmedia.jp/fategrandorder/76453957](https://appmedia.jp/fategrandorder/76453957){:target="_blank"}
 - [Chocolate scene translations](https://redd.it/1140etc){:target="_blank"} compiled by u/BlameLib
