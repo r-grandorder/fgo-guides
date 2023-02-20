@@ -100,29 +100,29 @@ nav_order: 1
   "embeds": [
     {
       "title": "Event Bonuses, Recommended Support List and FQ Drops",
-      "description": "https://twitter.com/niconikon01/status/1627235049614761984 \n\n Last updated <t:1676711640:F>",
-      "image": "https://pbs.twimg.com/media/FpPO9ckaYAE3EY0?format=jpg&name=4096x4096"
+      "description": "https://twitter.com/niconikon01/status/1627597283436158976 \n\n Last updated <t:1676885760:F> (<t:1676885760:R>)",
+      "image": "https://pbs.twimg.com/media/FpZiqQYaMAAqFUD?format=jpg&name=4096x4096"
     },
     {
-      "image": "https://pbs.twimg.com/media/FpPO-bgakAM9doi?format=jpg&name=large"
+      "image": "https://pbs.twimg.com/media/FpZirXKaUAEtYdd?format=jpg&name=large"
     },
     {
-      "image": "https://pbs.twimg.com/media/FpPO6fyagAAWQpA?format=jpg&name=4096x4096"
+      "image": "https://pbs.twimg.com/media/FpZiot7aQAEQTZV?format=jpg&name=4096x4096"
     }
   ]
 }
 -->
 
 # Recommended Support List and Free Quest Info
-[https://twitter.com/niconikon01/status/1627235049614761984](https://twitter.com/niconikon01/status/1627235049614761984)
+[https://twitter.com/niconikon01/status/1627597283436158976](https://twitter.com/niconikon01/status/1627597283436158976){:target="_blank"}
 
 ## Support List
 
-![Support](https://pbs.twimg.com/media/FpUZlD4akAAP2h7?format=jpg&name=large)
+![Support](https://pbs.twimg.com/media/FpZirXKaUAEtYdd?format=jpg&name=large)
 
 ## Free Quest Map
 
-![FQ](https://pbs.twimg.com/media/FpUZW_-aYAEdxzb?format=jpg&name=4096x4096)
+![FQ](https://pbs.twimg.com/media/FpZiot7aQAEQTZV?format=jpg&name=4096x4096)
 
 # Resources / Credits / Notes
 
