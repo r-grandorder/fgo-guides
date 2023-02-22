@@ -45,7 +45,7 @@ nav_order: 1
 | Main Quest Section 7<br/>Free Quest | February 22, 2022 (Wednesday) 18:00 |
 
 # Event Bonuses
-![Bonuses](https://pbs.twimg.com/media/FpKObKbaIAEpaov?format=jpg&name=4096x4096)
+![Bonuses](https://pbs.twimg.com/media/Fpj2w7faQAUsPBY?format=jpg&name=4096x4096)
 
 # Event CEs
 - Equip the shop CE "" and Valentine chocolate CEs to maximize your &lt;Love Heart Points&gt;
@@ -99,30 +99,30 @@ nav_order: 1
 .edit #jp-guides 1076078664904618104 {
   "embeds": [
     {
-      "title": "Event Bonuses, Recommended Support List and FQ Drops",
-      "description": "https://twitter.com/niconikon01/status/1627960015381471232 \n\n Last updated <t:1676987520:F> (<t:1676987520:R>)",
-      "image": "https://pbs.twimg.com/media/FpZiqQYaMAAqFUD?format=jpg&name=4096x4096"
+      "title": "Event Bonuses, Recommended Support List and FQ Drops - FINAL UPDATE",
+      "description": "https://twitter.com/niconikon01/status/1628323152144248832 \n\n Last updated <t:1677089280:F> (<t:1677089280:R>)",
+      "image": "https://pbs.twimg.com/media/Fpj2w7faQAUsPBY?format=jpg&name=4096x4096"
     },
     {
-      "image": "https://pbs.twimg.com/media/FpesSaYaUAAQVqi?format=jpg&name=large"
+      "image": "https://pbs.twimg.com/media/Fpj2xytaYAAgn-n?format=jpg&name=large"
     },
     {
-      "image": "https://pbs.twimg.com/media/FpesQQ3acAcK_2t?format=jpg&name=4096x4096"
+      "image": "https://pbs.twimg.com/media/Fpj2vZlacAIo2Ec?format=jpg&name=4096x4096"
     }
   ]
 }
 -->
 
-# Recommended Support List and Free Quest Info
-[https://twitter.com/niconikon01/status/1627960015381471232](https://twitter.com/niconikon01/status/1627960015381471232){:target="_blank"}
+# Recommended Support List and Free Quest Info - FINAL UPDATE
+[https://twitter.com/niconikon01/status/1628323152144248832](https://twitter.com/niconikon01/status/1628323152144248832){:target="_blank"}
 
 ## Support List
 
-![Support](https://pbs.twimg.com/media/FpesSaYaUAAQVqi?format=jpg&name=large)
+![Support](https://pbs.twimg.com/media/Fpj2xytaYAAgn-n?format=jpg&name=large)
 
 ## Free Quest Map
 
-![FQ](https://pbs.twimg.com/media/FpesQQ3acAcK_2t?format=jpg&name=4096x4096)
+![FQ](https://pbs.twimg.com/media/Fpj2vZlacAIo2Ec?format=jpg&name=4096x4096)
 
 # Resources / Credits / Notes
 
