@@ -92,8 +92,15 @@ nav_order: 1
 ![Teapot](https://news.fate-go.jp/wp-content/uploads/2023/valentine2023_full_mynxl/info_item_03.png)
 
 # Challenge Quest
-[Appmedia](){: .btn }{:target="_blank"}
+[Appmedia](https://appmedia.jp/fategrandorder/76513802){: .btn }{:target="_blank"}
 [Wikia/Fandom](https://fategrandorder.fandom.com/wiki/Valentine_2023/Challenge_Quest){: .btn }{:target="_blank"}
+
+- Angra (Avenger) - 262k / 525k
+- Caren (Ruler) - 152k / 186k / 269k
+
+## Mechanics
+- Angra NPs upon breaking his 1st HP bar
+- Check appmedia page for more details
 
 <!--
 .edit #jp-guides 1076078664904618104 {
