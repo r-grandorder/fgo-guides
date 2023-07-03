@@ -26,7 +26,8 @@ nav_order: 2
     - Currently (May 2022) only the following old welfares got coins: Elizabeth Variants (HW 2021), Bunyan (Learning with Manga Collab)
     - Those that had reruns after Anni6 also got coins in their respective events: Gray, Nobukatsu
     - Old welfares obtainable from Main Interludes/RP shop don't give out coins
-
+    - With the recently released Evocation Festivals, older welfares can now get coins via the shop.
+- Welfares get 480 coins from their Event or the Evocation shop. You need to raise the servant to bond 15 to farm the remaining 180 coins.
 
 # Obtaining Coins
 
@@ -35,17 +36,17 @@ nav_order: 2
 
 ## Copies
 
-| Servant Type | Rarity | Coins Earned |
-| :-- | :-- | :-- |
-| All Servants | 5* | 90 |
-| Limited / Story Locked | 4* | 50 |
-| Limited / Story Locked | 3* | 30 |
-| Permanent | 4* | 30 |
-| Permanent | 3* | 15 |
-| All Servants | 2* | 6 |
-| Limited  | 1* | 15 |
-| Permanent / Story Locked | 1* | 2 |
-| All Servants | 0* (Angra Mainyu) | 50 |
+| Servant Type                     | Rarity | Coins Earned |
+|:---------------------------------| :-- | :-- |
+| All Servants                     | 5* | 90 |
+| Limited / Story Locked / Welfare | 4* | 50 |
+| Limited / Story Locked           | 3* | 30 |
+| Permanent                        | 4* | 30 |
+| Permanent                        | 3* | 15 |
+| All Servants                     | 2* | 6 |
+| Limited                          | 1* | 15 |
+| Permanent / Story Locked         | 1* | 2 |
+| All Servants                     | 0* (Angra Mainyu) | 50 |
 
 Note !
 {: .label .label-blue }
