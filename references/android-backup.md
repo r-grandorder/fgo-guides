@@ -7,7 +7,7 @@ nav_order: 3
 
 # Manual FGO backup for Android
 - This is a guide for transferring your game files in case of emergencies where you cannot create a new binding code. Follow this guide at your own risk.
-- Originally posted in https://discord.com/channels/274980577545945090/274981376543948812/1024678458351169669
+- Originally posted in [https://discord.com/channels/274980577545945090/274981376543948812/1024678458351169669](Discord)
 
 ## How to do a manual backup
 1. Go to `Storage/Android/data/com.aniplex.fategrandorder/files/data` (changes per Android version, read note below)
@@ -41,6 +41,6 @@ nav_order: 3
 - This resource has been regularly updated and is worth a read. <https://www.reddit.com/r/Android/comments/j3zgmm/managing_files_in_the_androiddata_folder_on/>
 
 ## Other resources:
-- Chaldea Center's guide, includes notes on iOS: https://docs.chaldea.center/guide/import_https/transfer_data
-- Older guide on r/grandorder: https://www.reddit.com/r/grandorder/comments/hfbz0h/fgo_save_files_for_na_and_jp_play_on_multiple/
-- Manually triggering Google's automated backup: https://www.reddit.com/r/grandorder/comments/hej2ct/google_account_backup_stepbystep_android_set_up/
+- Chaldea Center's guide, includes notes on iOS: <https://docs.chaldea.center/guide/import_https/transfer_data>
+- Older guide on r/grandorder: <https://www.reddit.com/r/grandorder/comments/hfbz0h/fgo_save_files_for_na_and_jp_play_on_multiple/>
+- Manually triggering Google's automated backup: <https://www.reddit.com/r/grandorder/comments/hej2ct/google_account_backup_stepbystep_android_set_up/>
