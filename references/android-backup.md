@@ -7,7 +7,7 @@ nav_order: 3
 
 # Manual FGO backup for Android
 - This is a guide for transferring your game files in case of emergencies where you cannot create a new binding code. Follow this guide at your own risk.
-- Originally posted in [https://discord.com/channels/274980577545945090/274981376543948812/1024678458351169669](Discord)
+- Originally posted in [Discord](https://discord.com/channels/274980577545945090/274981376543948812/1024678458351169669).
 
 ## How to do a manual backup
 1. Go to `Storage/Android/data/com.aniplex.fategrandorder/files/data` (changes per Android version, read note below)
