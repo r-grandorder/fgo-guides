@@ -44,3 +44,4 @@ nav_order: 3
 - Chaldea Center's guide, includes notes on iOS: <https://docs.chaldea.center/guide/import_https/transfer_data>
 - Older guide on r/grandorder: <https://www.reddit.com/r/grandorder/comments/hfbz0h/fgo_save_files_for_na_and_jp_play_on_multiple/>
 - Manually triggering Google's automated backup: <https://www.reddit.com/r/grandorder/comments/hej2ct/google_account_backup_stepbystep_android_set_up/>
+- Another guide for writing into the data folder for Android 13: <https://droidwin.com/how-to-access-android-13-data-and-obb-folder-transfer-files-in-them/>
