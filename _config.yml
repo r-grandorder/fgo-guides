@@ -12,3 +12,8 @@ aux_links:
 
 ga_tracking: G-490C572XSX
 ga_tracking_anonymize_ip: true
+
+callouts:
+  warning:
+    title: Warning
+    color: red

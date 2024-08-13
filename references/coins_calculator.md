@@ -18,6 +18,9 @@ nav_order: 2
 </details>
 ---
 
+{: .warning}
+This page currently doesn't have details on the changes introduced from the 9th Anniversary Update (August 2024).
+
 # Servant Coins
 - Servant Coins was introduced in the 6th Anniversary of the game (August 2021 for JP, ~July 2023 for NA)
 - Players got retroactive coins (sent to the Inbox) for existing copies based on the Bond Level (all Rarities) and the Number of copies you obtained (4* and 5* only, Welfares not included) during the Anniversary. 
