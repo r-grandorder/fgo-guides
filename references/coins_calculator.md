@@ -19,7 +19,7 @@ nav_order: 2
 ---
 
 {: .warning}
-This page currently doesn't have details on the changes introduced from the 9th Anniversary Update (August 2024).
+The calculator still assumes the old bond level reward table. There are no details on how many coins are rewarded per bond level from bond7 onwards. This page will be updated once Lasengle provides details on how many additional coins are rewarded per bond level.  
 
 # Servant Coins
 - Servant Coins was introduced in the 6th Anniversary of the game (August 2021 for JP, ~July 2023 for NA)
@@ -31,11 +31,15 @@ This page currently doesn't have details on the changes introduced from the 9th 
     - Old welfares obtainable from Main Interludes/RP shop don't give out coins
     - With the recently released Evocation Festivals, older welfares can now get coins via the shop.
 - Welfares get 480 coins from their Event or the Evocation shop. You need to raise the servant to bond 15 to farm the remaining 180 coins.
+- As of [August 2024](https://news.fate-go.jp/2024/9th_anniversary/), there are 2 more Append Skills available to unlock.
+- After public backlash, Lasengle has [announced](https://news.fate-go.jp/2024/0805vcbsdj/) that they're increasing the coins rewarded from bond levels 7 up to 15. You'll get an additional 240 coins at bond15 to unlock the 2 new append skills.
+    - There are no promised dates on when these changes will get implemented. 
 
 # Obtaining Coins
 
 - Getting copies of the servant
 - Raising Bond
+- Evocation Festival for certain welfare servants
 
 ## Copies
 
@@ -51,9 +55,8 @@ This page currently doesn't have details on the changes introduced from the 9th 
 | Permanent / Story Locked         | 1* | 2 |
 | All Servants                     | 0* (Angra Mainyu) | 50 |
 
-Note !
-{: .label .label-blue }
-- Welfare Servants don't get coins from copies
+{: .info}
+Welfare Servants don't get coins from copies
 
 ## Bond Level
 
@@ -62,14 +65,16 @@ Note !
 | 1 - 6 | 5 | 30 |
 | 7 - 9 | 10 | 30 |
 | 10 - 15 | 20 | 120 |
-| Total | - | **80** (bond 10), **180** (bond 15) 
+| Total | - | **80** (bond 10), **180** (bond 15) | 
 
 # Coin Usage
 - Grails beyond Lv100
     - 1 Grail, QP and 30 Coins per 2 levels
-- Unlocking [Append Skills](https://fategrandorder.fandom.com/wiki/Append_Skills) with 120 coins
-    - Each servant has 3 append skills, for a total of 360 coins
-    - Most of the time only the 2nd Append skill (Mana Loading - 10%-20% Battery) is unlocked
+    - A total of 300 coins are needed to raise a servant to Lv120
+- Unlocking [Append Skills](https://fategrandorder.fandom.com/wiki/Append_Skills) with 120 coins each
+    - Each servant has 5 append skills, for a total of 600 coins
+    - Most of the time only the 2nd Append skill (Mana Loading - 10%-20% Battery) is unlocked.
+    - 5th Append skill (Skill Reloading - Reduce skill cooldown) is useful for 7cd battery servants like Space Ereshkigal and Archetype: Earth
 
 # Calculator
 
