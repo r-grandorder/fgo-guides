@@ -33,7 +33,7 @@ The Bond Rewards table was recently updated on 2024-August-28. For the NA versio
 - Welfares get 480 coins from their Event or the Evocation shop. You need to raise the servant to bond 15 to farm the remaining 180 coins.
 - As of [August 2024](https://news.fate-go.jp/2024/9th_anniversary/), there are 2 more Append Skills available to unlock.
 - After public backlash, Lasengle has [announced](https://news.fate-go.jp/2024/0805vcbsdj/) that they're increasing the coins rewarded from bond levels 7 up to 15. You'll get an additional 240 coins at bond15 to unlock the 2 new append skills.
-    - There are no promised dates on when these changes will get implemented. 
+  - Increased coin rewards from bond has been rolled out on August 28, 2024. News posts [here](https://news.fate-go.jp/2024/0828dkftc/) and [here](https://news.fate-go.jp/2024/0828fjtxa/). No updates regarding coins burnt through grail casting. 
 
 # Obtaining Coins
 
