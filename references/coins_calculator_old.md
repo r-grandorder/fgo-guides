@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Servant Coins Calculator
+title: NA Servant Coins Calculator
 parent: References
-nav_order: 2
+nav_order: 3
 ---
 
-# Servant Coins Calculator
+# Servant Coins Calculator (Old Version)
 {: .no_toc }
 
 <details open markdown="block">
@@ -19,7 +19,7 @@ nav_order: 2
 ---
 
 {: .warning}
-The Bond Rewards table was recently updated on 2024-August-28. For the NA version of this calculator, please go [here](coins_calculator_old.md).   
+The calculator still assumes the old bond level reward table for reference to NA players. The updated rewards table in JP is in [here](coins_calculator.md).
 
 # Servant Coins
 - Servant Coins was introduced in the 6th Anniversary of the game (August 2021 for JP, ~July 2023 for NA)
@@ -60,14 +60,12 @@ Welfare Servants don't get coins from copies
 
 ## Bond Level
 
-| Bond Level | Coins Earned per Level | Total                                |
-|:-----------|:-----------------------|:-------------------------------------|
-| 1 - 6      | 5                      | 30                                   |
-| 7 - 9      | 20                     | 60                                   |
-| 10         | 40                     | 40                                   |
-| 11         | 50                     | 50                                   |
-| 12 - 15    | 60                     | 240                                  |
-| Total      | -                      | **130** (bond 10), **420** (bond 15) | 
+| Bond Level | Coins Earned per Level | Total |
+| :-- | :-- | :-- |
+| 1 - 6 | 5 | 30 |
+| 7 - 9 | 10 | 30 |
+| 10 - 15 | 20 | 120 |
+| Total | - | **80** (bond 10), **180** (bond 15) | 
 
 # Coin Usage
 - Grails beyond Lv100
@@ -327,5 +325,5 @@ const rarityLookup = {
   }
 };
 
-const bondLevel = [0, 5, 10, 15, 20, 25, 30, 10, 70, 90, 130, 180, 240, 300, 360, 420];
+const bondLevel = [0, 5, 10, 15, 20, 25, 30, 40, 50, 60, 80, 100, 120, 140, 160, 180];
 </script>
