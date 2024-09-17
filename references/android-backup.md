@@ -32,13 +32,18 @@ nav_order: 4
 - These 4 files are the "login" files for your account, if someone gets access to them they can play your account. __So keep it safe and out of others' reach.__ Re-binding will change the files so you need to re-copy the files after binding if you want the backup to still work in the future.
 - Android 11 and up has a stricter policy on which applications can read/write on the system storage. You might not be able to do this on some devices or you need a different set of apps.
 - Options that usually work:
-    - The built in files app
-    - AOSP Files App or a 3rd party files app like Solid Explorer
-    - Accessing the files from a PC by connecting your phone via usb
+    - The built-in files app.
+    - AOSP Files App or a 3rd party files app like FV File Manager.
+    - Accessing the files from a PC by connecting your phone via usb (MTP).
+    - Using adb to push files either via command-line or a 3rd party Windows app like [ADB Explorer](https://github.com/Alex4SSB/ADB-Explorer).
 - Some methods are able to just read the files and cannot write. You will need a different device, preferably with a lower Android version, to restore into if writing doesn't work.
 - Backing up and Restoring to the same device is usually safe but still toes the line with the game's TOS since you're messing with the game's files. Restoring to a different device is more suspicious from Lasengle's pov because you're changing Devices without using a bind code. __We won't know if Lasengle will suddenly ban accounts for doing this method.__
 - The methods differ per OS version and Manufacturer, you're better off looking for guides that are tailored for your specific device. Usual search term is "copy pasting to android data folder <manufacturer>".
 - This resource has been regularly updated and is worth a read. <https://www.reddit.com/r/Android/comments/j3zgmm/managing_files_in_the_androiddata_folder_on/>
+
+{: .info}
+As of testing on 16-Sept-2024 with Android 14, the only on device app that works is FV File Manager. The other apps triggers Android's native "select folder to access" functionality and Android won't allow access to the game's data.  
+
 
 ## Other resources:
 - Chaldea Center's guide, includes notes on iOS: <https://docs.chaldea.center/guide/import_https/transfer_data>
