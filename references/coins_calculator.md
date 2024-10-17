@@ -46,9 +46,9 @@ The Bond Rewards table was recently updated on 2024-August-28. For the NA versio
 | Servant Type                     | Rarity | Coins Earned |
 |:---------------------------------| :-- | :-- |
 | All Servants                     | 5* | 90 |
-| Limited / Story Locked / Welfare | 4* | 50 |
+| Limited / Story Locked           | 4* | 50 |
+| Permanent / FP                   | 4* | 30 |
 | Limited / Story Locked           | 3* | 30 |
-| Permanent                        | 4* | 30 |
 | Permanent                        | 3* | 15 |
 | All Servants                     | 2* | 6 |
 | Limited                          | 1* | 15 |
@@ -56,7 +56,7 @@ The Bond Rewards table was recently updated on 2024-August-28. For the NA versio
 | All Servants                     | 0* (Angra Mainyu) | 50 |
 
 {: .info}
-Welfare Servants don't get coins from copies
+Welfare Servants don't get coins from copies. FP rollable 4* units (Saber Lily, Habetrot, Hakuno) are treated as Permanent
 
 ## Bond Level
 
